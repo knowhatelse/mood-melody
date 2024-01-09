@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 from app.validator.validator import file_validator
 from app.services.emotionDetectionService import detectEmotion
 from app.services.emotionToGenreService import getGenreFromEmotion
+from app.services.songService import SongService
 
 app = Flask(__name__)
 
@@ -19,7 +20,10 @@ def index():
     
     genre = getGenreFromEmotion(emotion_result)
 
+    song_service = SongService()
+    songs = song_service.get_songs(genre)
     
-   
+    return jsonify({'songs' : songs})
+
 if __name__ == '__main__':
     app.run(debug=True)
