@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request
 from app.validator.validator import file_validator
 from app.services.emotionDetectionService import detectEmotion
+from app.services.emotionToGenreService import getGenreFromEmotion
 
 app = Flask(__name__)
 
@@ -15,6 +16,10 @@ def index():
 
     if emotion_result == 400:
         return jsonify({'error' : 'Problem with analyzing the image...'})
+    
+    genre = getGenreFromEmotion(emotion_result)
+
+    
    
 if __name__ == '__main__':
     app.run(debug=True)
