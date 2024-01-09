@@ -1,5 +1,6 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from app.validator.validator import file_validator
+from app.services.emotionDetectionService import detectEmotion
 
 app = Flask(__name__)
 
@@ -10,6 +11,10 @@ def index():
     if validator_response == 404:
         return jsonify({'response' : 'No file added'})
     
+    emotion_result = detectEmotion(validator_response)
+
+    if emotion_result == 400:
+        return jsonify({'error' : 'Problem with analyzing the image...'})
    
 if __name__ == '__main__':
     app.run(debug=True)
