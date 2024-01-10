@@ -6,6 +6,7 @@ def recommended_genres(emotion):
         "happy": ("pop", "hip hop", "reggae", "country"),
         "sad": ("jazz", "blues"),
         "surprise": ("hip hop", "pop"),
+        "neutral" : ("rock", "hip hop", "blues", "jazz", "reggae", "country", "pop")
     }
 
-    return GENRE_MAP.get(emotion, "pop")
+    return GENRE_MAP.get(emotion)
