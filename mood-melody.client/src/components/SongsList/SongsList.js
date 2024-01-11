@@ -1,6 +1,6 @@
 import "./SongsList.css";
 
-function SongsList() {
+function SongsList({songsData}) {
   return (
     <div className="sl-content-holder">
       <div className="sl-upper-container">
@@ -8,16 +8,11 @@ function SongsList() {
       </div>
       <div className="sl-center">
         <ul>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
-          <li>Artist Neme - Track Name (Year) | Genre</li>
+          {
+            songsData.map((song) => (
+              <li key={song.Track}>{song.Artist} - {song.Track} ({ song.ReleaseDate }) | {song.Genre}</li>
+            ))
+          }
         </ul>
       </div>
     </div>

@@ -67,6 +67,20 @@
     font-size: 17.5px;
 }
 
+.fu-uploaded-file {
+    width: 40%;
+    height: 20%;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 125%;
+}
+
 .fu-bottom-holder {
     height: 30%;
     width: 100%;
