@@ -1,6 +1,33 @@
 import "./FileUpload.css";
+import { useState } from "react";
+import axios from 'axios'
 
-function FileUpload() {
+function FileUpload({handleSongsData}) {
+  const [file, setFile] = useState(null);
+
+  function sendFile() {
+    if (!file) {
+      alert("No file was uploaded");
+      return;
+    }
+
+    const fd = new FormData();
+    fd.append('file', file);
+
+    axios.post('http://localhost:5000/analyze', fd, {
+      headers: {
+        'Content-Type': 'multipart/form-data',
+      },
+    })
+    .then(response => {
+      if(response.data === null) {
+        alert("Image couldn't be analyzed");
+      }
+      handleSongsData(response.data)
+    })
+    .catch(err => alert(err.response.data.bad_request)); 
+  }
+
   return (
     <div className="fu-content-holder">
       <div className="fu-header-container">
@@ -10,15 +37,30 @@ function FileUpload() {
       </div>
       <div className="fu-center-holder">
         <div className="fu-input-holder">
-          <label className="fu-input-label">
-            <input type="file" className="fu-input" accept="image/*"></input>
-            <span className="fu-text">Choose file</span>
-          </label>
+          {file === null ? (
+            <label className="fu-input-label">
+              <input
+                type="file"
+                className="fu-input"
+                accept="image/*"
+                onChange={(e) => {
+                  setFile(e.target.files[0]);
+                }}
+              ></input>
+              <span className="fu-text">Choose file</span>
+            </label>
+          ) : (
+            <div className="fu-uploaded-file">
+              File uploaded
+            </div>
+          )}
         </div>
       </div>
       <div className="fu-bottom-holder">
         <div className="fu-sent-image">
-          <button className="fu-sent-button">Get recomended songs</button>
+          <button className="fu-sent-button" onClick={sendFile}>
+            Get recomended songs
+          </button>
         </div>
       </div>
     </div>
