@@ -1,5 +1,5 @@
 import "./FileUpload.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import axios from 'axios'
 
 function FileUpload({handleSongsData, handleLoadingScreen}) {
@@ -34,7 +34,7 @@ function FileUpload({handleSongsData, handleLoadingScreen}) {
   }
 
   return (
-    <div className="fu-content-holder">
+    <div className="fu-content-holder fade-in">
       <div className="fu-header-container">
         <p className="fu-title">
           Upolad an image of you and get your Top 10 songs based on you emotion!
