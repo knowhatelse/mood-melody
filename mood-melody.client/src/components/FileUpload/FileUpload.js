@@ -2,7 +2,7 @@ import "./FileUpload.css";
 import { useState } from "react";
 import axios from 'axios'
 
-function FileUpload({handleSongsData}) {
+function FileUpload({handleSongsData, handleLoadingScreen}) {
   const [file, setFile] = useState(null);
 
   function sendFile() {
@@ -13,6 +13,8 @@ function FileUpload({handleSongsData}) {
 
     const fd = new FormData();
     fd.append('file', file);
+
+    handleLoadingScreen(true);
 
     axios.post('http://localhost:5000/analyze', fd, {
       headers: {
@@ -25,7 +27,10 @@ function FileUpload({handleSongsData}) {
       }
       handleSongsData(response.data)
     })
-    .catch(err => alert(err.response.data.bad_request)); 
+    .catch(err => alert(err.response.data.bad_request))
+    .finally( () => {
+      handleLoadingScreen(false)
+    })
   }
 
   return (
