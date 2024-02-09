@@ -1,15 +1,15 @@
-ÔªøId;ArtistName;TrackName;RelaseDate;Genre
+id;artist_name;track_name;release_date;genre
 0;mukesh;mohabbat bhi jhoothi;1950;pop
 4;frankie laine;i believe;1950;pop
 6;johnnie ray;cry;1950;pop
-10;p√©rez prado;patricia;1950;pop
+10;pÇrez prado;patricia;1950;pop
 12;giorgos papadopoulos;apopse eida oneiro;1950;pop
 14;perry como;round and round (with mitchell ayres and his orchestra & the ray charles singers);1950;pop
 15;freestyle;opm medley: when i met you;1950;pop
 17;johnny mathis;it's not for me to say;1950;pop
-20;st√©lios kazantz√≠dis;klapse me mana klapse me;1950;pop
-23;st√©lios kazantz√≠dis;finito la mouzika;1950;pop
-28;liva weel;dr√∏mmer man om den, v√•gner..;1951;pop
+20;stÇlios kazantz°dis;klapse me mana klapse me;1950;pop
+23;stÇlios kazantz°dis;finito la mouzika;1950;pop
+28;liva weel;dr?mmer man om den, vÜgner..;1951;pop
 32;the chordettes;carolina moon;1951;pop
 33;frankie laine;necessary evil;1951;pop
 34;ghantasala;kanugona galano;1951;pop
@@ -64,7 +64,7 @@
 183;lata mangeshkar;mera dil yeh pukare aaja;1955;pop
 185;ted heath;to you my love;1955;pop
 191;ted heath;believe in me;1956;pop
-192;ted heath;take the ‚Äúa‚Äù train;1956;pop
+192;ted heath;take the ?a? train;1956;pop
 199;lata mangeshkar;pahuni raghunandan savala;1956;pop
 201;bill haley & his comets;come rock with me;1956;pop
 202;lata mangeshkar;antar mantar jantar;1956;pop
@@ -153,8 +153,8 @@
 407;perry como;he's got the whole world in his hands;1958;pop
 408;perry como;birth of the blues;1958;pop
 410;johnny mathis;where can i go?;1958;pop
-411;ÂºµÈú≤;Â§¢Êñ∑Â∑´Â±±;1958;pop
-413;ÂºµÈú≤;‰Ω†Âéª‰∫ÜÈÇ£Ë£°;1958;pop
+411;??;????;1958;pop
+413;??;?????;1958;pop
 414;frankie laine;mona lisa;1958;pop
 415;a. m. rajah;inbamae pongumae;1958;pop
 416;t. m. soundararajan;enna vendum;1958;pop
@@ -241,7 +241,7 @@
 635;johnny mathis;embraceable you;1959;pop
 636;johnny mathis;let's love;1959;pop
 640;tony dallara;oceano;1959;pop
-641;rania;ŸÖŸÜŸÉ ÿ®ÿÆÿßŸÅ;1959;pop
+641;rania;??? ????;1959;pop
 645;ira ironstrings;let it snow! let it snow! let it snow!;1959;pop
 648;brenda lee;back in your own back yard;1959;pop
 651;johnny mathis;you better go now;1959;pop
@@ -450,7 +450,7 @@
 1177;johnny burnette;oh lonesome me;1961;pop
 1178;sue thompson;paper tiger;1961;pop
 1180;les paul;am i blue;1961;pop
-1182;najat al saghira;ÿ•ŸÑŸâ ÿ≠ÿ®Ÿäÿ®Ÿâ ÿ™ÿ≥ÿ¨ŸäŸÑ ÿ≠ŸÅŸÑÿ©;1961;pop
+1182;najat al saghira;??? ????? ????? ????;1961;pop
 1183;les paul;your cheatin' heart;1961;pop
 1186;bobby darin;long ago and far away;1961;pop
 1187;bobby darin;the more i see you;1961;pop
@@ -1184,7 +1184,7 @@
 3279;the impressions;i can't stay away from you;1967;pop
 3281;margo guryan;love songs;1968;pop
 3282;blood, sweat & tears;morning glory;1968;pop
-3283;jos√© feliciano;(there's) always something there to remind me;1968;pop
+3283;josÇ feliciano;(there's) always something there to remind me;1968;pop
 3284;fats domino;lovely rita;1968;pop
 3288;the byrds;the christian life;1968;pop
 3291;carole king;it's too late;1968;pop
@@ -1218,7 +1218,7 @@
 3368;donovan;hi it's been a long time;1968;pop
 3372;donovan;as i recall it;1968;pop
 3379;glen campbell;words;1968;pop
-3381;c√©line dion;i'm alive;1968;pop
+3381;cÇline dion;i'm alive;1968;pop
 3384;the monkees;dream world;1968;pop
 3386;love affair;rainbow valley;1968;pop
 3388;gladys knight & the pips;yesterday;1968;pop
@@ -1306,7 +1306,7 @@
 3602;nancy sinatra;greenwich village folk song salesman;1968;pop
 3604;glen campbell;dreams of the everyday housewife;1968;pop
 3608;gladys knight & the pips;i wish it would rain;1968;pop
-3609;jos√© feliciano;sunny;1968;pop
+3609;josÇ feliciano;sunny;1968;pop
 3610;the beach boys;be here in the mornin';1968;pop
 3616;melanie;mr. tambourine man;1968;pop
 3617;mary hopkin;those were the days;1968;pop
@@ -1376,7 +1376,7 @@
 3825;classics iv;traces;1969;pop
 3827;jimmy ruffin;farewell is a lonely sound;1969;pop
 3836;bob dylan;country pie;1969;pop
-3838;the flying burrito brothers;christine‚Äôs tune;1969;pop
+3838;the flying burrito brothers;christine?s tune;1969;pop
 3840;scott walker;duchess;1969;pop
 3853;roy orbison;walk on;1969;pop
 3855;scott walker;the seventh seal;1969;pop
@@ -1816,7 +1816,7 @@
 5339;johnny rivers;secret agent man;1973;pop
 5341;neil diamond;if you go away;1973;pop
 5348;abba;disillusion;1973;pop
-5352;ringo starr;you're sixteen (you‚Äôre beautiful and you‚Äôre mine);1973;pop
+5352;ringo starr;you're sixteen (you?re beautiful and you?re mine);1973;pop
 5361;suzi quatro;48 crash;1973;pop
 5364;jackson browne;sing my songs to me;1973;pop
 5365;roxy music;the bogus man;1973;pop
@@ -2051,7 +2051,7 @@
 6093;olivia newton-john;the long and winding road;1976;pop
 6094;orleans;the path;1976;pop
 6095;the tubes;don't touch me there;1976;pop
-6097;jos√© feliciano;loving her was easier;1976;pop
+6097;josÇ feliciano;loving her was easier;1976;pop
 6098;ambrosia;somewhere i've never travelled;1976;pop
 6102;firefall;no way out;1976;pop
 6107;randy crawford;i've never been to me;1976;pop
@@ -2199,7 +2199,7 @@
 6577;bread;today's the first day;1977;pop
 6578;electric light orchestra;believe me now;1977;pop
 6581;electric light orchestra;birmingham blues;1977;pop
-6584;neil diamond;desir√©e;1977;pop
+6584;neil diamond;desirÇe;1977;pop
 6587;jackson browne;here come those tears again;1977;pop
 6589;kenny loggins;celebrate me home;1977;pop
 6590;donna summer;i feel love;1977;pop
@@ -2376,7 +2376,7 @@
 7093;donna summer;can't get to sleep at night;1979;pop
 7095;donna summer;no more tears (enough is enough);1979;pop
 7105;john mellencamp;small paradise;1979;pop
-7108;gang of four;maj.45;1979;pop
+7108;gang of four;5.45;1979;pop
 7109;gary numan;engineers;1979;pop
 7110;gang of four;guns before butter;1979;pop
 7111;christopher cross;poor shirley;1979;pop
@@ -2548,7 +2548,7 @@
 7623;the b-52's;party out of bounds;1980;pop
 7624;x;johny hit and run paulene;1980;pop
 7627;barry manilow;i made it through the rain;1980;pop
-7632;the feelies;fa c√©-la;1980;pop
+7632;the feelies;fa cÇ-la;1980;pop
 7633;pat benatar;you better run;1980;pop
 7634;peter gabriel;biko;1980;pop
 7636;electric light orchestra;don't walk away;1980;pop
@@ -2596,7 +2596,7 @@
 7752;x;los angeles;1980;pop
 7755;the teardrop explodes;reward;1980;pop
 7757;the psychedelic furs;pulse;1980;pop
-7758;george lam;ÂàÜÂàÜÈêòÈúÄË¶Å‰Ω†;1980;pop
+7758;george lam;??????;1980;pop
 7759;olivia newton-john;whenever you're away from me;1980;pop
 7761;jackson browne;call it a loan;1980;pop
 7762;the b-52's;devil in my car;1980;pop
@@ -2697,7 +2697,7 @@
 8002;loverboy;working for the weekend;1981;pop
 8004;the j. geils band;centerfold;1981;pop
 8005;soft cell;tainted love;1981;pop
-8007;jos√© jos√©;vamos a darnos tiempo;1981;pop
+8007;josÇ josÇ;vamos a darnos tiempo;1981;pop
 8011;orchestral manoeuvres in the dark;souvenir;1981;pop
 8013;sheena easton;morning train (nine to five);1981;pop
 8017;the cars;since you're gone;1981;pop
@@ -2878,7 +2878,7 @@
 8486;the the;soul mining;1983;pop
 8488;"""weird al"" yankovic";i'll be mellow when i'm dead;1983;pop
 8494;the chameleons;less than human;1983;pop
-8502;spandau ballet;TRUE;1983;pop
+8502;spandau ballet;true;1983;pop
 8503;spandau ballet;gold;1983;pop
 8505;sonic youth;kill yr. idols;1983;pop
 8508;billy idol;(do not) stand in the shadows;1983;pop
@@ -2890,7 +2890,7 @@
 8532;the b-52's;butterbean;1983;pop
 8534;the waterboys;a girl called johnny;1983;pop
 8545;bryan adams;i'm ready;1983;pop
-8547;r.e.m.;9.sep;1983;pop
+8547;r.e.m.;9-9;1983;pop
 8548;oingo boingo;wake up (it's 1984);1983;pop
 8549;the the;the sinking feeling;1983;pop
 8550;"""weird al"" yankovic";mr. frump in the iron lung;1983;pop
@@ -2920,7 +2920,7 @@
 8595;pete townshend;behind blue eyes;1983;pop
 8597;cocteau twins;five ten fiftyfold;1983;pop
 8598;christopher cross;no time for talk;1983;pop
-8601;agnetha f√§ltskog;wrap your arms around me;1983;pop
+8601;agnetha fÑltskog;wrap your arms around me;1983;pop
 8604;china crisis;wishful thinking;1983;pop
 8606;billy idol;crank call;1983;pop
 8607;christopher cross;words of wisdom;1983;pop
@@ -2986,7 +2986,7 @@
 8787;tears for fears;the hurting;1983;pop
 8790;the plimsouls;oldest story in the world;1983;pop
 8791;violent femmes;to the kill;1983;pop
-8793;new order;5.8.2006;1983;pop
+8793;new order;5-8-6;1983;pop
 8795;red rockers;china;1983;pop
 8796;tears for fears;memories fade;1983;pop
 8801;blancmange;blind vision;1984;pop
@@ -3002,7 +3002,7 @@
 8836;gloria estefan;get on your feet;1984;pop
 8840;the bangles;going down to liverpool;1984;pop
 8841;echo & the bunnymen;my kingdom;1984;pop
-8842;h√ºsker d√º;broken home, broken heart;1984;pop
+8842;hÅsker dÅ;broken home, broken heart;1984;pop
 8846;gerry & the pacemakers;how do you do it?;1984;pop
 8850;cocteau twins;amelia;1984;pop
 8852;lyres;help you ann;1984;pop
@@ -3031,10 +3031,10 @@
 8906;everything but the girl;tender blue;1984;pop
 8909;meat puppets;the whistling song;1984;pop
 8910;naked eyes;(what) in the name of love;1984;pop
-8911;h√ºsker d√º;what's going on;1984;pop
+8911;hÅsker dÅ;what's going on;1984;pop
 8916;minutemen;west germany;1984;pop
 8918;mac davis;hooked on music;1984;pop
-8919;h√ºsker d√º;beyond the threshold;1984;pop
+8919;hÅsker dÅ;beyond the threshold;1984;pop
 8920;new edition;delicious;1984;pop
 8921;little river band;playing to win;1984;pop
 8922;bryan adams;long gone;1984;pop
@@ -3070,7 +3070,7 @@
 9015;bronski beat;smalltown boy;1984;pop
 9019;pat benatar;we belong;1984;pop
 9024;new edition;mr. telephone man;1984;pop
-9026;h√ºsker d√º;something i learned today;1984;pop
+9026;hÅsker dÅ;something i learned today;1984;pop
 9028;minutemen;corona;1984;pop
 9037;the human league;the lebanon;1984;pop
 9039;howard jones;no one is to blame;1984;pop
@@ -3078,7 +3078,7 @@
 9041;echo & the bunnymen;the killing moon;1984;pop
 9045;talk talk;such a shame;1984;pop
 9046;gloria estefan;everlasting love;1984;pop
-9047;h√ºsker d√º;chartered trips;1984;pop
+9047;hÅsker dÅ;chartered trips;1984;pop
 9048;laura branigan;ti amo;1984;pop
 9050;gloria estefan;don't wanna lose you;1984;pop
 9051;the style council;the paris match;1984;pop
@@ -3095,7 +3095,7 @@
 9078;the stranglers;skin deep;1984;pop
 9080;alison moyet;is this love?;1984;pop
 9082;bryan adams;kids wanna rock;1984;pop
-9083;gloria estefan;1.2.2003;1984;pop
+9083;gloria estefan;1-2-3;1984;pop
 9086;madonna;love don't live here anymore;1984;pop
 9091;bronski beat;i feel love;1984;pop
 9105;public image ltd.;the order of death;1984;pop
@@ -3142,7 +3142,7 @@
 9220;thompson twins;lay your hands on me;1985;pop
 9223;descendents;gcf;1985;pop
 9225;starship;tomorrow doesn't matter tonight;1985;pop
-9236;h√ºsker d√º;divide and conquer;1985;pop
+9236;hÅsker dÅ;divide and conquer;1985;pop
 9237;descendents;rockstar;1985;pop
 9238;prefab sprout;goodbye lucille #1;1985;pop
 9243;tom petty and the heartbreakers;needles and pins;1985;pop
@@ -3183,11 +3183,11 @@
 9362;john mellencamp;between a laugh and a tear;1985;pop
 9366;the outfield;61 seconds;1985;pop
 9367;the outfield;i don't need her;1985;pop
-9372;h√ºsker d√º;makes no sense at all;1985;pop
+9372;hÅsker dÅ;makes no sense at all;1985;pop
 9374;feargal sharkey;a good heart;1985;pop
 9375;r.e.m.;driver 8;1985;pop
 9376;felt;primitive painters;1985;pop
-9379;h√ºsker d√º;celebrated summer;1985;pop
+9379;hÅsker dÅ;celebrated summer;1985;pop
 9380;tears for fears;i believe;1985;pop
 9383;big black;kerosene;1985;pop
 9388;strawberry switchblade;go away;1985;pop
@@ -3321,7 +3321,7 @@
 9745;heart;bad animals;1987;pop
 9747;starship;set the night to music;1987;pop
 9750;carly simon;itsy bitsy spider;1987;pop
-9752;h√ºsker d√º;could you be the one?;1987;pop
+9752;hÅsker dÅ;could you be the one?;1987;pop
 9755;billy joe royal;i'll pin a note on your pillow;1987;pop
 9756;wire;ahead;1987;pop
 9759;the replacements;never mind;1987;pop
@@ -3372,7 +3372,7 @@
 9892;the cars;go away;1987;pop
 9893;the cars;coming up on you;1987;pop
 9896;bodeans;dreams;1987;pop
-9900;sin√©ad o'connor;mandinka;1987;pop
+9900;sinÇad o'connor;mandinka;1987;pop
 9901;john mellencamp;paper in fire;1987;pop
 9902;erasure;sometimes;1987;pop
 9903;abc;when smokey sings;1987;pop
@@ -3403,7 +3403,7 @@
 9979;pixies;caribou;1987;pop
 9981;michael jackson;fly away;1987;pop
 9987;whitney houston;you're still my man;1987;pop
-9989;expos√©;seasons change;1987;pop
+9989;exposÇ;seasons change;1987;pop
 9992;hoodoo gurus;what's my scene;1987;pop
 9995;helen reddy;you and me against the world;1987;pop
 9997;the communards;never can say goodbye;1987;pop
@@ -3414,7 +3414,7 @@
 10015;descendents;coolidge;1987;pop
 10017;pixies;nimrod's son;1987;pop
 10018;dinosaur jr.;the lung;1987;pop
-10021;sin√©ad o'connor;i want your (hands on me);1987;pop
+10021;sinÇad o'connor;i want your (hands on me);1987;pop
 10026;michael jackson;al capone;1987;pop
 10027;culture club;time (clock of the heart);1987;pop
 10028;whitney houston;love will save the day;1987;pop
@@ -3612,7 +3612,7 @@
 10539;pixies;manta ray;1989;pop
 10542;cyndi lauper;my first night without you;1989;pop
 10546;cher;love on a rooftop;1989;pop
-10547;≈æeljko bebek;sinoƒá sam pola kafane popio;1989;pop
+10547;?eljko bebek;sino? sam pola kafane popio;1989;pop
 10548;tracy chapman;subcity;1989;pop
 10552;tom petty;love is a long road;1989;pop
 10554;galaxie 500;isn't it a pity;1989;pop
@@ -3728,10 +3728,10 @@
 10916;social distortion;ball and chain;1990;pop
 10917;en vogue;hold on;1990;pop
 10919;heart;all i wanna do is make love to you;1990;pop
-10925;sin√©ad o'connor;nothing compares 2 u;1990;pop
+10925;sinÇad o'connor;nothing compares 2 u;1990;pop
 10933;whitney houston;all the man that i need;1990;pop
 10936;mariah carey;love takes time;1990;pop
-10945;ricardo montaner;me va a extra√±ar (aka unchain my heart);1990;pop
+10945;ricardo montaner;me va a extra§ar (aka unchain my heart);1990;pop
 10948;salt-n-pepa;let's talk about sex;1990;pop
 10949;ice cube;jackin' for beats;1990;pop
 10951;heart;secret;1990;pop
@@ -3746,7 +3746,7 @@
 10981;pixies;velouria;1990;pop
 10987;inxs;by my side;1990;pop
 10992;bad religion;modern man;1990;pop
-10993;h√ºsker d√º;eight miles high;1990;pop
+10993;hÅsker dÅ;eight miles high;1990;pop
 10995;the cleftones;heart and soul;1990;pop
 11002;cocteau twins;wolf in the breast;1990;pop
 11003;pixies;is she weird;1990;pop
@@ -3849,7 +3849,7 @@
 11246;jodeci;come & talk to me;1991;pop
 11248;my bloody valentine;to here knows when;1991;pop
 11252;my bloody valentine;only shallow;1991;pop
-11255;tony! toni! ton√©!;me and you;1991;pop
+11255;tony! toni! tonÇ!;me and you;1991;pop
 11263;michael learns to rock;the actor;1991;pop
 11266;nofx;the moron brothers;1991;pop
 11267;the smashing pumpkins;snail;1991;pop
@@ -3858,7 +3858,7 @@
 11275;modern talking;geronimo's cadillac;1991;pop
 11277;r.e.m.;half a world away;1991;pop
 11278;ned's atomic dustbin;grey cell green;1991;pop
-11279;sin√©ad o'connor;silent night;1991;pop
+11279;sinÇad o'connor;silent night;1991;pop
 11280;2pac;if my homie calls;1991;pop
 11283;slint;washer;1991;pop
 11284;alberto vazquez;significas todo para mi;1991;pop
@@ -3869,7 +3869,7 @@
 11296;oingo boingo;goodbye-goodbye;1991;pop
 11299;frank ifield;i remember you;1991;pop
 11301;the sugarcubes;hit;1991;pop
-11303;ÂΩ≠ÂÆ∂È∫ó;Âæû‰∏çÂñúÊ≠°Â≠§ÂñÆ‰∏ÄÂÄã;1991;pop
+11303;???;????????;1991;pop
 11305;my bloody valentine;come in alone;1991;pop
 11310;dj quik;pitch in ona party;1991;pop
 11311;crowded house;fall at your feet;1991;pop
@@ -3929,11 +3929,11 @@
 11451;madonna;fever;1992;pop
 11454;pepe aguilar;estas fallando;1992;pop
 11455;tito rojas;amor del bueno;1992;pop
-11459;c√©line dion;nothing broken but my heart;1992;pop
+11459;cÇline dion;nothing broken but my heart;1992;pop
 11460;4 non blondes;calling all the people;1992;pop
 11461;nofx;straight edge;1992;pop
 11462;ice cube;gangsta's fairytale 2;1992;pop
-11463;sin√©ad o'connor;don't cry for me argentina;1992;pop
+11463;sinÇad o'connor;don't cry for me argentina;1992;pop
 11466;social distortion;ghost town blues;1992;pop
 11467;suzanne vega;blood makes noise;1992;pop
 11468;sonic youth;100%;1992;pop
@@ -3948,7 +3948,7 @@
 11494;green day;words i might have ate;1992;pop
 11495;4 non blondes;drifting;1992;pop
 11496;tracy chapman;matters of the heart;1992;pop
-11498;babes in toyland¬†;bruise violet;1992;pop
+11498;babes in toylandˇ;bruise violet;1992;pop
 11499;mary j. blige;intro talk;1992;pop
 11500;no doubt;ache;1992;pop
 11506;they might be giants;statue got me high;1992;pop
@@ -3968,7 +3968,7 @@
 11560;pennywise;stand by me;1992;pop
 11566;bad religion;generator;1992;pop
 11567;the left banke;walk away renee;1992;pop
-11568;c√©line dion;where does my heart beat now;1992;pop
+11568;cÇline dion;where does my heart beat now;1992;pop
 11577;barenaked ladies;if i had $1,000,000;1992;pop
 11583;swv;weak;1992;pop
 11584;mary j. blige;real love;1992;pop
@@ -3991,7 +3991,7 @@
 11619;social distortion;99 to life;1992;pop
 11620;no doubt;trapped in a box;1992;pop
 11621;tasmin archer;sleeping satellite;1992;pop
-11622;chant√© moore;love's taken over;1992;pop
+11622;chantÇ moore;love's taken over;1992;pop
 11623;green day;christie rd.;1992;pop
 11624;whitney houston;something in common;1992;pop
 11627;shakespears sister;stay;1992;pop
@@ -4017,13 +4017,13 @@
 11693;sarah mclachlan;ice cream;1993;pop
 11695;jellyfish;new mistake;1993;pop
 11696;the cranberries;not sorry;1993;pop
-11697;c√©line dion;the colour of my love;1993;pop
+11697;cÇline dion;the colour of my love;1993;pop
 11698;phish;rift;1993;pop
 11700;catherine wheel;crank;1993;pop
 11701;sarah mclachlan;fear;1993;pop
 11706;kate bush;why should i love you?;1993;pop
 11707;swirlies;pancake;1993;pop
-11709;c√©line dion;when i fall in love;1993;pop
+11709;cÇline dion;when i fall in love;1993;pop
 11711;ace of base;living in danger;1993;pop
 11713;kim carnes;more love;1993;pop
 11714;sheryl crow;d'yer mak'er;1993;pop
@@ -4040,11 +4040,11 @@
 11734;cracker;euro-trash girl;1993;pop
 11736;snoop dogg;who am i (what's my name)?;1993;pop
 11739;glass tiger;someday;1993;pop
-11743;bj√∂rk;crying;1993;pop
-11744;bj√∂rk;there's more to life than this;1993;pop
+11743;bjîrk;crying;1993;pop
+11744;bjîrk;there's more to life than this;1993;pop
 11750;mariah carey;never forget you;1993;pop
 11755;james;say something;1993;pop
-11756;tony! toni! ton√©!;anniversary;1993;pop
+11756;tony! toni! tonÇ!;anniversary;1993;pop
 11759;tears for fears;goodnight song;1993;pop
 11764;carole king;now and forever;1993;pop
 11765;lucky dube;remember me;1993;pop
@@ -4070,16 +4070,16 @@
 11821;crowded house;distant sun;1993;pop
 11823;jamiroquai;emergency on planet earth;1993;pop
 11828;cocteau twins;evangeline;1993;pop
-11832;bj√∂rk;aeroplane;1993;pop
+11832;bjîrk;aeroplane;1993;pop
 11837;the five satins;in the still of the night;1993;pop
-11843;bj√∂rk;human behaviour;1993;pop
+11843;bjîrk;human behaviour;1993;pop
 11845;babyface;when can i see you;1993;pop
 11849;big head todd and the monsters;bittersweet;1993;pop
 11851;candlebox;you;1993;pop
 11855;toni braxton;how many ways;1993;pop
-11856;tony! toni! ton√©!;(lay your head on my) pillow;1993;pop
+11856;tony! toni! tonÇ!;(lay your head on my) pillow;1993;pop
 11857;ace of base;don't turn around;1993;pop
-11858;bj√∂rk;venus as a boy;1993;pop
+11858;bjîrk;venus as a boy;1993;pop
 11859;sarah mclachlan;possession;1993;pop
 11860;the smashing pumpkins;luna;1993;pop
 11863;candlebox;cover me;1993;pop
@@ -4206,7 +4206,7 @@
 12190;anne murray;could i have this dance;1994;pop
 12192;the smashing pumpkins;landslide;1994;pop
 12195;sponge;plowed;1994;pop
-12196;sin√©ad o'connor;all apologies;1994;pop
+12196;sinÇad o'connor;all apologies;1994;pop
 12198;da brat;funkdafied;1994;pop
 12203;green day;longview;1994;pop
 12207;tom petty;wildflowers;1994;pop
@@ -4271,10 +4271,10 @@
 12371;coolio;gangsta's paradise;1995;pop
 12373;alanis morissette;head over feet;1995;pop
 12374;boyzone;love me for a reason;1995;pop
-12379;bj√∂rk;i miss you;1995;pop
+12379;bjîrk;i miss you;1995;pop
 12381;no doubt;world go 'round;1995;pop
 12382;jewel;near you always;1995;pop
-12383;bj√∂rk;isobel;1995;pop
+12383;bjîrk;isobel;1995;pop
 12384;annie lennox;train in vain;1995;pop
 12387;guided by voices;as we go up, we go down;1995;pop
 12388;elliott smith;coming up roses;1995;pop
@@ -4288,7 +4288,7 @@
 12403;mariah carey;daydream interlude;1995;pop
 12405;no doubt;total hate '95;1995;pop
 12410;michael jackson;d.s.;1995;pop
-12418;bj√∂rk;enjoy;1995;pop
+12418;bjîrk;enjoy;1995;pop
 12420;the goo goo dolls;naked;1995;pop
 12421;michael jackson;money;1995;pop
 12422;alanis morissette;forgiven;1995;pop
@@ -4315,8 +4315,8 @@
 12462;jewel;foolish games;1995;pop
 12464;ace of base;beautiful life;1995;pop
 12467;jodeci;get on up;1995;pop
-12468;bj√∂rk;it's oh so quiet;1995;pop
-12472;enrique iglesias;si t√∫ te vas;1995;pop
+12468;bjîrk;it's oh so quiet;1995;pop
+12472;enrique iglesias;si t£ te vas;1995;pop
 12480;the smashing pumpkins;tonight, tonight;1995;pop
 12487;the presidents of the united states of america;lump;1995;pop
 12491;bone thugs-n-harmony;tha crossroads;1995;pop
@@ -4346,7 +4346,7 @@
 12547;big l;mvp;1995;pop
 12549;jewel;hands;1995;pop
 12551;ll cool j;loungin (who do ya luv);1995;pop
-12552;bj√∂rk;hyper-ballad;1995;pop
+12552;bjîrk;hyper-ballad;1995;pop
 12556;elastica;connection;1995;pop
 12558;ice cube;friday;1995;pop
 12559;seven mary three;water's edge;1995;pop
@@ -4397,14 +4397,14 @@
 12691;jennifer love hewitt;cool with you;1996;pop
 12695;blackstreet;let's stay in love;1996;pop
 12696;phish;billy breathes;1996;pop
-12697;c√©line dion;(you make me feel like) a natural woman;1996;pop
+12697;cÇline dion;(you make me feel like) a natural woman;1996;pop
 12700;nofx;philthy phil philanthropist;1996;pop
 12702;mc lyte;keep on, keepin' on (feat. xscape);1996;pop
 12703;sponge;wax ecstatic (to sell angelina);1996;pop
 12705;outkast;wailin';1996;pop
 12710;spice girls;something kinda funny;1996;pop
 12713;faith evans;kissing you;1996;pop
-12714;c√©line dion;falling into you;1996;pop
+12714;cÇline dion;falling into you;1996;pop
 12715;dave matthews band;cry freedom;1996;pop
 12718;nancy sinatra;wait 'till you see him;1996;pop
 12721;the lemonheads;the outdoor type;1996;pop
@@ -4432,7 +4432,7 @@
 12788;tonic;if you could only see;1996;pop
 12791;backstreet boys;as long as you love me;1996;pop
 12792;the cardigans;lovefool;1996;pop
-12793;c√©line dion;"because you loved me (theme from ""up close and personal"")";1996;pop
+12793;cÇline dion;"because you loved me (theme from ""up close and personal"")";1996;pop
 12794;backstreet boys;quit playing games (with my heart);1996;pop
 12795;spice girls;say you'll be there;1996;pop
 12804;toni braxton;un-break my heart;1996;pop
@@ -4499,7 +4499,7 @@
 12995;the offspring;cool to hate;1997;pop
 12996;mariah carey;babydoll;1997;pop
 12998;mariah carey;the roof;1997;pop
-13007;zhan√©;crush;1997;pop
+13007;zhanÇ;crush;1997;pop
 13008;green day;all the time;1997;pop
 13009;blink-182;i'm sorry;1997;pop
 13011;built to spill;randy described eternity;1997;pop
@@ -4530,7 +4530,7 @@
 13081;mariah carey;my all;1997;pop
 13090;harvey danger;flagpole sitta;1997;pop
 13092;third eye blind;how's it going to be;1997;pop
-13093;c√©line dion;my heart will go on;1997;pop
+13093;cÇline dion;my heart will go on;1997;pop
 13096;the verve;bitter sweet symphony;1997;pop
 13100;*nsync;tearin' up my heart;1997;pop
 13101;the notorious b.i.g.;mo money mo problems;1997;pop
@@ -4554,7 +4554,7 @@
 13151;shania twain;from this moment on;1997;pop
 13157;nofx;all outta angst;1997;pop
 13158;sleater-kinney;dig me out;1997;pop
-13160;bj√∂rk;joga;1997;pop
+13160;bjîrk;joga;1997;pop
 13162;modest mouse;trailer trash;1997;pop
 13164;the notorious b.i.g.;mo money mo problems (feat. mase & puff daddy);1997;pop
 13166;five for fighting;100 years;1997;pop
@@ -4570,7 +4570,7 @@
 13201;beck;tropicalia;1998;pop
 13207;destiny's child;no, no, no, pt. 1;1998;pop
 13209;the offspring;feelings;1998;pop
-13211;98¬∫;true to your heart;1998;pop
+13211;98ß;true to your heart;1998;pop
 13215;lagwagon;may 16;1998;pop
 13216;cher;all or nothing;1998;pop
 13218;dmx;my niggas;1998;pop
@@ -4612,7 +4612,7 @@
 13325;david gray;sail away;1998;pop
 13334;gang starr;work;1998;pop
 13336;outkast;spottieottiedopaliscious;1998;pop
-13337;c√©line dion;the prayer;1998;pop
+13337;cÇline dion;the prayer;1998;pop
 13340;monica;for you i will;1998;pop
 13342;missy elliott;she's a bitch;1998;pop
 13345;dave matthews band;stay (wasting time);1998;pop
@@ -4631,7 +4631,7 @@
 13373;the offspring;the kids aren't alright;1998;pop
 13379;dru hill;beauty;1998;pop
 13390;natalie merchant;kind & generous;1998;pop
-13393;98¬∫;i do (cherish you);1998;pop
+13393;98ß;i do (cherish you);1998;pop
 13395;hole;celebrity skin;1998;pop
 13396;tyrese;sweet lady;1998;pop
 13405;nicole;make it hot (feat. missy elliott & mocha);1998;pop
@@ -4693,7 +4693,7 @@
 13576;destiny's child;hey ladies;1999;pop
 13580;the lillingtons;black hole in my mind;1999;pop
 13581;collective soul;tremble for my beloved;1999;pop
-13587;c√©line dion;love can move mountains;1999;pop
+13587;cÇline dion;love can move mountains;1999;pop
 13589;"""weird al"" yankovic";your horoscope for today;1999;pop
 13590;project pat;niggas got me fucked up;1999;pop
 13596;stone temple pilots;atlanta;1999;pop
@@ -4725,7 +4725,7 @@
 13679;donell jones;where i wanna be;1999;pop
 13682;ginuwine;so anxious;1999;pop
 13687;702;where my girls at;1999;pop
-13693;naughty by nature;jamboree (feat. zhan√©);1999;pop
+13693;naughty by nature;jamboree (feat. zhanÇ);1999;pop
 13696;enrique iglesias;could i have this kiss forever;1999;pop
 13697;incubus;make yourself;1999;pop
 13702;ben folds five;army;1999;pop
@@ -4739,11 +4739,11 @@
 13722;smog;cold blooded old times;1999;pop
 13726;perry como;it's beginning to look a lot like christmas (with mitchell ayres & his orchestra);1999;pop
 13727;nas;you owe me (feat. ginuwine);1999;pop
-13729;c√©line dion;to love you more;1999;pop
+13729;cÇline dion;to love you more;1999;pop
 13733;the flaming lips;race for the prize;1999;pop
 13744;marc anthony;you sang to me;1999;pop
 13745;third eye blind;deep inside of you;1999;pop
-13748;mariah carey;thank god i found you (feat. joe & 98¬∞);1999;pop
+13748;mariah carey;thank god i found you (feat. joe & 98¯);1999;pop
 13750;mariah carey;i still believe;1999;pop
 13751;jay z;anything;1999;pop
 13752;built to spill;the plan;1999;pop
@@ -4765,7 +4765,7 @@
 13795;the offspring;come out swinging;2000;pop
 13797;gillian welch;i'll fly away;2000;pop
 13798;modest mouse;broke;2000;pop
-13799;jay chou;ÈªëËâ≤ÂπΩÈªò;2000;pop
+13799;jay chou;????;2000;pop
 13805;lucy pearl;everyday;2000;pop
 13806;no doubt;new;2000;pop
 13808;flogging molly;salty dog;2000;pop
@@ -4777,7 +4777,7 @@
 13820;wheatus;teenage dirtbag;2000;pop
 13825;colin hay;waiting for my real life to begin;2000;pop
 13827;modest mouse;dark center of the universe;2000;pop
-13828;rene liu;Âæå‰æÜ;2000;pop
+13828;rene liu;??;2000;pop
 13830;the offspring;million miles away;2000;pop
 13831;westlife;i lay my love on you;2000;pop
 13835;project pat;red rum;2000;pop
@@ -4827,11 +4827,11 @@
 13998;sam cooke;it's all right;2000;pop
 14001;elliott smith;somebody that i used to know;2000;pop
 14004;trina;da baddest b***h;2000;pop
-14020;98¬∫;give me just one night (una noche);2000;pop
+14020;98ß;give me just one night (una noche);2000;pop
 14027;phish;heavy things;2000;pop
 14028;the offspring;original prankster;2000;pop
 14029;the avalanches;since i left you;2000;pop
-14034;m√Ωa;best of me, part 2;2000;pop
+14034;m?a;best of me, part 2;2000;pop
 14035;whitney houston;one moment in time;2000;pop
 14036;green day;waiting;2000;pop
 14037;big pun;it's so hard (featuring donell jones);2000;pop
@@ -4841,7 +4841,7 @@
 14045;*nsync;no strings attached;2000;pop
 14050;eve 6;promise;2000;pop
 14057;*nsync;just got paid;2000;pop
-14058;98¬∫;my everything;2000;pop
+14058;98ß;my everything;2000;pop
 14062;pandora;popurri juan gabriel medley;2001;pop
 14064;weezer;photograph;2001;pop
 14065;basement jaxx;where's your head at;2001;pop
@@ -4887,7 +4887,7 @@
 14181;project pat;if you ain't from my hood (feat. dj paul & juicy j);2001;pop
 14182;weezer;crab;2001;pop
 14185;mack 10;connected for life;2001;pop
-14188;bj√∂rk;pagan poetry;2001;pop
+14188;bjîrk;pagan poetry;2001;pop
 14193;papa roach;dead cell;2001;pop
 14195;gorillaz;slow country;2001;pop
 14196;the microphones;the glow, pt. 2;2001;pop
@@ -4904,7 +4904,7 @@
 14228;pennywise;fuck authority;2001;pop
 14229;blu cantrell;hit 'em up style (oops!) (feat. foxy brown);2001;pop
 14230;diddy;bad boy for life;2001;pop
-14234;ricky martin;el ultimo adi√≥s;2001;pop
+14234;ricky martin;el ultimo adi¢s;2001;pop
 14235;the shins;caring is creepy;2001;pop
 14238;jimmy eat world;hear you me;2001;pop
 14239;blink-182;anthem part two;2001;pop
@@ -4983,7 +4983,7 @@
 14439;taking back sunday;ghost man on third;2002;pop
 14440;coheed and cambria;devil in jersey city;2002;pop
 14442;my chemical romance;early sunsets over monroeville;2002;pop
-14444;c√©line dion;i surrender;2002;pop
+14444;cÇline dion;i surrender;2002;pop
 14448;box car racer;and i;2002;pop
 14455;michael learns to rock;paint my love;2002;pop
 14457;nelly;nellyville;2002;pop
@@ -5039,12 +5039,12 @@
 14582;maroon 5;this love;2002;pop
 14590;christina aguilera;beautiful;2002;pop
 14596;phantom planet;california;2002;pop
-14600;cam‚Äôron;oh boy;2002;pop
+14600;cam?ron;oh boy;2002;pop
 14604;avril lavigne;i'm with you;2002;pop
 14605;sum 41;still waiting;2002;pop
 14607;brian mcknight;the only one for me;2002;pop
 14611;avril lavigne;anything but ordinary;2002;pop
-14614;jos√© feliciano;feliz navidad;2002;pop
+14614;josÇ feliciano;feliz navidad;2002;pop
 14617;amanda perez;angel;2002;pop
 14618;interpol;obstacle 1;2002;pop
 14620;taking back sunday;you know how i do;2002;pop
@@ -5084,7 +5084,7 @@
 14708;britney spears;breathe on me;2003;pop
 14709;fuel;falls on me;2003;pop
 14714;pet shop boys;go west;2003;pop
-14715;michael bubl√©;for once in my life;2003;pop
+14715;michael bublÇ;for once in my life;2003;pop
 14717;fall out boy;the patron saint of liars and fakes;2003;pop
 14721;blink-182;i'm lost without you;2003;pop
 14723;dave matthews;stay or leave;2003;pop
@@ -5133,7 +5133,7 @@
 14831;yellowcard;way away;2003;pop
 14832;blink-182;always;2003;pop
 14833;brand new;the quiet things that no one ever knows;2003;pop
-14839;m√Ωa;fallen;2003;pop
+14839;m?a;fallen;2003;pop
 14842;kelly clarkson;a moment like this;2003;pop
 14845;fruit bats;when u love somebody;2003;pop
 14849;the knife;heartbeats;2003;pop
@@ -5165,7 +5165,7 @@
 14918;blu cantrell;hit 'em up style (oops!);2003;pop
 14919;blink-182;violence;2003;pop
 14920;fall out boy;saturday;2003;pop
-14921;c√©line dion;i drove all night;2003;pop
+14921;cÇline dion;i drove all night;2003;pop
 14927;yellowcard;believe;2003;pop
 14929;coheed and cambria;in keeping secrets of silent earth: 3;2003;pop
 14930;goldfrapp;strict machine;2003;pop
@@ -5175,7 +5175,7 @@
 14944;yellowcard;empty apartment;2003;pop
 14949;switchfoot;meant to live;2003;pop
 14950;saosin;seven years;2003;pop
-14955;michael bubl√©;the way you look tonight;2003;pop
+14955;michael bublÇ;the way you look tonight;2003;pop
 14956;john mayer;come back to bed;2003;pop
 14957;t.i.;rubber band man;2003;pop
 14958;john mayer;split screen sadness;2003;pop
@@ -5244,7 +5244,7 @@
 15120;keane;this is the last time;2004;pop
 15121;the used;let it bleed;2004;pop
 15123;sufjan stevens;the dress looks nice on you;2004;pop
-15127;raven-symon√©;that's so raven (theme song);2004;pop
+15127;raven-symonÇ;that's so raven (theme song);2004;pop
 15129;senses fail;bite to break skin;2004;pop
 15130;simple plan;shut up!;2004;pop
 15134;kelly clarkson;behind these hazel eyes;2004;pop
@@ -5318,7 +5318,7 @@
 15299;gorillaz;last living souls;2005;pop
 15309;death cab for cutie;brothers on a hotel bed;2005;pop
 15312;coldplay;swallowed in the sea;2005;pop
-15330;michael bubl√©;you and i;2005;pop
+15330;michael bublÇ;you and i;2005;pop
 15333;gorillaz;white light;2005;pop
 15335;ashlee simpson;l.o.v.e.;2005;pop
 15337;jeezy;my hood;2005;pop
@@ -5360,7 +5360,7 @@
 15432;panic! at the disco;london beckoned songs about money written by machines;2005;pop
 15433;panic! at the disco;camisado;2005;pop
 15434;panic! at the disco;time to dance;2005;pop
-15438;the offspring;come out and play (keep ‚Äòem separated);2005;pop
+15438;the offspring;come out and play (keep ?em separated);2005;pop
 15442;death cab for cutie;i will follow you into the dark;2005;pop
 15443;weezer;beverly hills;2005;pop
 15452;the fray;how to save a life;2005;pop
@@ -5368,9 +5368,9 @@
 15461;shakira;la tortura (feat. alejandro sanz);2005;pop
 15462;the game;how we do;2005;pop
 15465;50 cent;just a lil bit;2005;pop
-15466;michael bubl√©;feeling good;2005;pop
+15466;michael bublÇ;feeling good;2005;pop
 15467;frankie lymon;why do fools fall in love;2005;pop
-15468;michael bubl√©;home;2005;pop
+15468;michael bublÇ;home;2005;pop
 15469;anna nalick;breathe (2 am);2005;pop
 15474;the pussycat dolls;stickwitu;2005;pop
 15476;keyshia cole;love;2005;pop
@@ -5387,7 +5387,7 @@
 15512;beck;e-pro;2005;pop
 15513;fall out boy;i slept with someone in fall out boy and all i got was this stupid song written about me;2005;pop
 15515;anberlin;the feel good drag;2005;pop
-15520;gorillaz;el ma√±ana;2005;pop
+15520;gorillaz;el ma§ana;2005;pop
 15524;mariah carey;don't forget about us;2005;pop
 15525;o.a.r.;love and memories;2005;pop
 15528;imogen heap;hide and seek;2005;pop
@@ -5411,7 +5411,7 @@
 15564;afi;prelude 12/21;2006;pop
 15565;sister hazel;mandolin moon;2006;pop
 15566;letoya;torn;2006;pop
-15568;michael wong;Á´•Ë©±;2006;pop
+15568;michael wong;??;2006;pop
 15570;juvenile;rodeo;2006;pop
 15574;daughtry;what about now;2006;pop
 15575;anti-flag;this is the end (for you my friend);2006;pop
@@ -5433,7 +5433,7 @@
 15622;the cheetah girls;amigas cheetahs;2006;pop
 15630;akon;i wanna love you;2006;pop
 15633;daughtry;september;2006;pop
-15634;beyonc√©;ring the alarm;2006;pop
+15634;beyoncÇ;ring the alarm;2006;pop
 15638;petey pablo;show me the money;2006;pop
 15642;thom yorke;black swan;2006;pop
 15645;daughtry;crawling back to you;2006;pop
@@ -5493,7 +5493,7 @@
 15788;john mayer;dreaming with a broken heart;2006;pop
 15790;rick ross;hustlin';2006;pop
 15793;yung joc;it's goin' down (feat. nitti);2006;pop
-15794;jos√© gonz√°lez;heartbeats;2006;pop
+15794;josÇ gonz†lez;heartbeats;2006;pop
 15801;flyleaf;fully alive;2006;pop
 15806;cherish;do it to it;2006;pop
 15807;john legend;save room;2006;pop
@@ -5504,7 +5504,7 @@
 15822;the decemberists;sons & daughters;2006;pop
 15826;damien rice;9 crimes;2006;pop
 15827;james morrison;you give me something;2006;pop
-15835;44;when your heart stops beating;2006;pop
+15835;+44;when your heart stops beating;2006;pop
 15836;jeezy;i luv it;2006;pop
 15839;troy;get'cha head in the game;2006;pop
 15840;escape the fate;not good enough for truth in cliche';2006;pop
@@ -5615,7 +5615,7 @@
 16145;rooney;when did your heart go missing?;2007;pop
 16149;the national;fake empire;2007;pop
 16153;lifehouse;whatever it takes;2007;pop
-16155;kalimba;no puedo dejarte de amar (with jes√∫s navarro);2007;pop
+16155;kalimba;no puedo dejarte de amar (with jes£s navarro);2007;pop
 16165;glen hansard;falling slowly;2007;pop
 16167;paramore;for a pessimist, i'm pretty optimistic;2007;pop
 16170;timbaland;give it to me;2007;pop
@@ -5694,7 +5694,7 @@
 16389;jonas brothers;play my music;2008;pop
 16394;3 doors down;it's not my time;2008;pop
 16396;usher;love in this club (feat. young jeezy);2008;pop
-16402;beyonc√©;diva;2008;pop
+16402;beyoncÇ;diva;2008;pop
 16406;shwayze;buzzin';2008;pop
 16407;fleet foxes;ragged wood;2008;pop
 16410;jesse mccartney;how do you sleep?;2008;pop
@@ -5719,7 +5719,7 @@
 16487;bon iver;creature fear;2008;pop
 16489;a day to remember;you should've killed me when you had the chance;2008;pop
 16491;panic! at the disco;she's a handsome woman;2008;pop
-16495;john legend;green light (feat. andr√© 3000);2008;pop
+16495;john legend;green light (feat. andrÇ 3000);2008;pop
 16502;high school musical cast;right here, right now;2008;pop
 16504;demi lovato;don't forget;2008;pop
 16505;hellogoodbye;here (in your arms);2008;pop
@@ -5734,8 +5734,8 @@
 16522;bon iver;the wolves (act i and ii);2008;pop
 16524;adele;melt my heart to stone;2008;pop
 16525;jonas brothers;tonight;2008;pop
-16532;beyonc√©;i'd rather go blind;2008;pop
-16535;beyonc√©;broken-hearted girl;2008;pop
+16532;beyoncÇ;i'd rather go blind;2008;pop
+16535;beyoncÇ;broken-hearted girl;2008;pop
 16543;wiz khalifa;this plane;2009;pop
 16546;demi lovato;catch me;2009;pop
 16551;kid cudi;enter galactic (love connection part i);2009;pop
@@ -5756,7 +5756,7 @@
 16591;kid cudi;day 'n' nite;2009;pop
 16592;florence + the machine;kiss with a fist;2009;pop
 16593;phoenix;lasso;2009;pop
-16594;bibio;lovers‚Äô carvings;2009;pop
+16594;bibio;lovers? carvings;2009;pop
 16597;three days grace;lost in you;2009;pop
 16600;calvin harris;flashback;2009;pop
 16602;kid cudi;simple as...;2009;pop
@@ -5794,7 +5794,7 @@
 16671;young money;roger that;2009;pop
 16673;florence + the machine;i'm not calling you a liar;2009;pop
 16676;florence + the machine;bird song;2009;pop
-16677;michael bubl√©;hold on;2009;pop
+16677;michael bublÇ;hold on;2009;pop
 16686;a day to remember;nj legion iced tea;2009;pop
 16687;jason walker;down;2009;pop
 16689;anarbor;you and i;2009;pop
@@ -5948,7 +5948,7 @@
 17152;flo rida;who dat girl (feat. akon);2010;pop
 17154;go radio;goodnight moon;2010;pop
 17161;reel big fish;take on me;2010;pop
-17163;nicki minaj;did it on‚Äôem;2010;pop
+17163;nicki minaj;did it on?em;2010;pop
 17164;miguel;vixen;2010;pop
 17168;justin bieber;overboard;2010;pop
 17169;deerhunter;he would have laughed;2010;pop
@@ -5994,7 +5994,7 @@
 17279;flo rida;good feeling;2011;pop
 17281;demi lovato;fix a heart;2011;pop
 17283;big sean;dance (a$$) remix;2011;pop
-17284;beyonc√©;i was here;2011;pop
+17284;beyoncÇ;i was here;2011;pop
 17288;lil wayne;nightmares of the bottom;2011;pop
 17289;rihanna;we found love;2011;pop
 17290;paramore;monster;2011;pop
@@ -6171,7 +6171,7 @@
 17815;brandi carlile;heart's content;2012;pop
 17818;nicki minaj;high school;2012;pop
 17821;frank ocean;sweet life;2012;pop
-17823;emeli sand√©;next to me;2012;pop
+17823;emeli sandÇ;next to me;2012;pop
 17824;the neighbourhood;sweater weather;2012;pop
 17826;john mayer;something like olivia;2012;pop
 17827;zedd;spectrum;2012;pop
@@ -6259,7 +6259,7 @@
 18055;the 1975;heart out;2013;pop
 18057;childish gambino;i. flight of the navigator;2013;pop
 18058;falling in reverse;bad girls club;2013;pop
-18060;zhan√©;hey mr. d.j.;2013;pop
+18060;zhanÇ;hey mr. d.j.;2013;pop
 18064;jeremih;all the time;2013;pop
 18066;lady gaga;applause;2013;pop
 18068;james arthur;impossible;2013;pop
@@ -6306,7 +6306,7 @@
 18173;jess glynne;take me home;2013;pop
 18177;grouplove;ways to go;2013;pop
 18183;rittz;switch lanes;2013;pop
-18185;jos√© gonz√°lez;stay alive;2013;pop
+18185;josÇ gonz†lez;stay alive;2013;pop
 18186;drake;too much;2013;pop
 18187;natalia kills;devils don't fly;2013;pop
 18188;chance the rapper;interlude (that's love);2013;pop
@@ -6349,7 +6349,7 @@
 18286;juicy j;shell shocked (feat. kill the noise & madsonik);2014;pop
 18287;andy grammer;back home;2014;pop
 18291;mitski;first love / late spring;2014;pop
-18292;beyonc√©;pretty hurts;2014;pop
+18292;beyoncÇ;pretty hurts;2014;pop
 18299;shakira;can't remember to forget you (feat. rihanna);2014;pop
 18301;iggy azalea;work;2014;pop
 18307;aurora;runaway;2014;pop
@@ -6418,7 +6418,7 @@
 18484;iggy azalea;fancy;2014;pop
 18485;calvin harris;summer;2014;pop
 18488;clean bandit;rather be (feat. jess glynne);2014;pop
-18489;beyonc√©;drunk in love;2014;pop
+18489;beyoncÇ;drunk in love;2014;pop
 18490;rixton;me and my broken heart;2014;pop
 18491;hozier;work song;2014;pop
 18496;hozier;someone new;2014;pop
@@ -6429,7 +6429,7 @@
 18507;kid ink;main chick (feat. chris brown);2014;pop
 18509;aronchupa;i'm an albatraoz;2014;pop
 18511;sam smith;money on my mind;2014;pop
-18512;ti√´sto;wasted;2014;pop
+18512;tiâsto;wasted;2014;pop
 18516;wiz khalifa;ass drop;2014;pop
 18525;august alsina;kissin' on my tattoos;2014;pop
 18526;adam levine;lost stars;2014;pop
@@ -6493,7 +6493,7 @@
 18672;yo gotti;fuck you (feat. meek mill);2015;pop
 18674;san holo;we rise;2015;pop
 18675;deorro;five more hours;2015;pop
-18676;b√∏rns;past lives;2015;pop
+18676;b?rns;past lives;2015;pop
 18678;carly rae jepsen;run away with me;2015;pop
 18681;travis scott;apple pie;2015;pop
 18684;drake;right hand;2015;pop
@@ -6520,7 +6520,7 @@
 18721;kelly clarkson;piece by piece;2015;pop
 18726;rich homie quan;flex (ooh, ooh, ooh);2015;pop
 18729;logic;lord willin';2015;pop
-18730;twice;ooh-ahhÌïòÍ≤å like ooh-ahh;2015;pop
+18730;twice;ooh-ahh?? like ooh-ahh;2015;pop
 18731;george ezra;blame it on me;2015;pop
 18734;marc e. bassy;drunk & i'm drunk;2015;pop
 18735;kodak black;like dat;2015;pop
@@ -6532,9 +6532,9 @@
 18745;yelawolf;till it's gone;2015;pop
 18750;the weeknd;angel;2015;pop
 18755;russ;too many;2015;pop
-18756;russ;willy wonka (feat. paulina & jaf√©);2015;pop
+18756;russ;willy wonka (feat. paulina & jafÇ);2015;pop
 18757;mac miller;rush hour;2015;pop
-18759;ti√´sto;split (only u);2015;pop
+18759;tiâsto;split (only u);2015;pop
 18761;justin bieber;no pressure;2015;pop
 18764;x ambassadors;american oxygen;2015;pop
 18770;drake;6 man;2015;pop
@@ -6582,7 +6582,7 @@
 18886;lany;ilysb;2015;pop
 18887;melanie martinez;cry baby;2015;pop
 18888;justin bieber;purpose;2015;pop
-18896;b√∏rns;10,000 emerald pools;2015;pop
+18896;b?rns;10,000 emerald pools;2015;pop
 18898;duke dumont;ocean drive;2015;pop
 18901;nelly;the fix;2015;pop
 18902;wale;the need to know (feat. sza);2015;pop
@@ -6713,9 +6713,9 @@
 19255;the weeknd;secrets;2016;pop
 19266;childish gambino;me and your mama;2016;pop
 19268;kanye west;famous;2016;pop
-19269;the band camino;feb.14;2016;pop
+19269;the band camino;2 / 14;2016;pop
 19270;sabrina carpenter;thumbs;2016;pop
-19274;mila j;kickin‚Äô back;2016;pop
+19274;mila j;kickin? back;2016;pop
 19277;eric bellinger;drive by;2016;pop
 19278;astrid s;hurts so good;2016;pop
 19285;the weeknd;six feet under;2016;pop
@@ -6738,7 +6738,7 @@
 19316;travis scott;way back;2016;pop
 19319;bruno mars;chunky;2016;pop
 19324;shakira;try everything;2016;pop
-19330;beyonc√©;6 inch (feat. the weeknd);2016;pop
+19330;beyoncÇ;6 inch (feat. the weeknd);2016;pop
 19331;p!nk;"just like fire (from the original motion picture ""alice through the looking glass"")";2016;pop
 19332;local natives;dark days;2016;pop
 19341;khalid;cold blooded;2017;pop
@@ -6776,7 +6776,7 @@
 19444;kehlani;crzy;2017;pop
 19453;migos;kelly price (feat. travis scott);2017;pop
 19455;ed sheeran;save myself;2017;pop
-19458;amin√©;redmercedes;2017;pop
+19458;aminÇ;redmercedes;2017;pop
 19461;t-pain;f.b.g.m.;2017;pop
 19468;smallpools;million bucks;2017;pop
 19473;playboi carti;yah mean;2017;pop
@@ -6818,12 +6818,12 @@
 19609;miguel;sky walker (feat. travis scott);2017;pop
 19610;shawn mendes;mercy;2017;pop
 19611;ed sheeran;happier;2017;pop
-19613;amin√©;caroline;2017;pop
+19613;aminÇ;caroline;2017;pop
 19619;train;play that song;2017;pop
 19623;nav;some way;2017;pop
 19624;jessie reyez;great one;2017;pop
 19625;chelsea cutler;your shirt;2017;pop
-19628;justin bieber;friends (with bloodpop¬Æ);2017;pop
+19628;justin bieber;friends (with bloodpop?);2017;pop
 19631;green day;boulevard of broken dreams;2017;pop
 19634;h.e.r.;every kind of way;2017;pop
 19635;h.e.r.;losing;2017;pop
@@ -6838,7 +6838,7 @@
 19668;blackbear;chateau;2017;pop
 19672;russ;what they want;2017;pop
 19676;zara larsson;i can't fall in love without you;2017;pop
-19677;amin√©;heebiejeebies;2017;pop
+19677;aminÇ;heebiejeebies;2017;pop
 19678;avicii;without you (feat. sandro cavazza);2017;pop
 19681;james arthur;naked;2017;pop
 19682;camila cabello;crying in the club;2017;pop
@@ -6855,7 +6855,7 @@
 19716;travis scott;5% tint;2018;pop
 19720;kina grannis;can't help falling in love;2018;pop
 19727;ariana grande;better off;2018;pop
-19728;drake;can‚Äôt take a joke;2018;pop
+19728;drake;can?t take a joke;2018;pop
 19729;alec benjamin;if i killed someone for you;2018;pop
 19748;twenty one pilots;jumpsuit;2018;pop
 19749;khalid;this way;2018;pop
@@ -6912,10 +6912,10 @@
 19889;charlie puth;attention;2018;pop
 19890;kodak black;calling my spirit;2018;pop
 19891;drake;in my feelings;2018;pop
-19892;bazzi;03:15;2018;pop
+19892;bazzi;3:15;2018;pop
 19894;sam smith;fire on fire;2018;pop
 19897;lanco;greatest love story;2018;pop
-19900;ti√´sto;jackie chan;2018;pop
+19900;tiâsto;jackie chan;2018;pop
 19902;ruel;younger;2018;pop
 19903;rich the kid;plug walk;2018;pop
 19904;post malone;rich & sad;2018;pop
@@ -6934,7 +6934,7 @@
 19934;post malone;sunflower;2018;pop
 19935;ariana grande;no tears left to cry;2018;pop
 19938;88rising;midsummer madness;2018;pop
-19940;amin√©;reel it in;2018;pop
+19940;aminÇ;reel it in;2018;pop
 19946;notd;so close;2018;pop
 19948;shawn mendes;lost in japan;2018;pop
 19949;travis scott;butterfly effect;2018;pop
@@ -6971,7 +6971,7 @@
 20047;gucci mane;ice (feat. gunna & lil baby);2019;pop
 20050;drake;draft day;2019;pop
 20052;bts;dionysus;2019;pop
-20056;beyonc√©;before i let go;2019;pop
+20056;beyoncÇ;before i let go;2019;pop
 20060;blackbear;1 sided love;2019;pop
 20061;bryce vine;la la land;2019;pop
 20063;dj khaled;you stay (feat. meek mill, j balvin, lil baby & jeremih);2019;pop
@@ -9295,7 +9295,7 @@
 26987;dan fogelberg;stolen moments;1981;country
 26990;john anderson;i've almost jack daniels drowned;1981;country
 26995;little feat;lonesome whistle;1981;country
-27000;the replacements;somethin to d√º;1981;country
+27000;the replacements;somethin to dÅ;1981;country
 27001;the replacements;more cigarettes;1981;country
 27003;conway twitty;slow lovemakin';1981;country
 27005;johnny cash;thanks to you;1981;country
@@ -10426,7 +10426,7 @@
 30686;george strait;heartland;1992;country
 30688;hank williams;alone and forsaken;1992;country
 30689;hank williams;there's a tear in my beer;1992;country
-30690;jimmy lafave;walk away ren√©e;1992;country
+30690;jimmy lafave;walk away renÇe;1992;country
 30695;confederate railroad;time off for bad behavior;1992;country
 30698;iris dement;our town;1992;country
 30702;lee greenwood;god bless america;1992;country
@@ -10974,7 +10974,7 @@
 32654;restless heart;the bluest eyes in texas;1998;country
 32655;garth brooks;where your road leads;1998;country
 32665;mark wills;i do (cherish you);1998;country
-32676;george strait;TRUE;1998;country
+32676;george strait;true;1998;country
 32677;restless heart;when she cries;1998;country
 32685;mel mcdaniel;stand up;1998;country
 32687;steve wariner;lonely women make good lovers;1998;country
@@ -11014,7 +11014,7 @@
 32809;lila mccann;crush;1999;country
 32810;toby keith;when love fades;1999;country
 32812;wilco;candyfloss;1999;country
-32814;sherri√© austin;never been kissed;1999;country
+32814;sherriÇ austin;never been kissed;1999;country
 32817;montgomery gentry;gone;1999;country
 32818;montgomery gentry;trying to survive;1999;country
 32819;my morning jacket;heartbreakin man;1999;country
@@ -11520,7 +11520,7 @@
 34906;cory morrow;beat of your heart;2005;country
 34911;john prine;some humans ain't human;2005;country
 34915;little big town;stay;2005;country
-34919;kyle park;somebody‚Äôs trying to steal my heart;2005;country
+34919;kyle park;somebody?s trying to steal my heart;2005;country
 34921;brandon jenkins;finger on the trigger;2005;country
 34922;jason aldean;i believe in ghosts;2005;country
 34925;miranda lambert;greyhound bound for nowhere;2005;country
@@ -11643,7 +11643,7 @@
 35374;kingspade;who run this;2007;country
 35378;gaither vocal band;when i cry;2007;country
 35380;brad paisley;when we all get to heaven;2007;country
-35381;leann rimes;nothin‚Äô better to do;2007;country
+35381;leann rimes;nothin? better to do;2007;country
 35387;gaither vocal band;sweet, sweet spirit;2007;country
 35388;clay walker;you're my witness;2007;country
 35394;merle haggard;it's not love (but it's not bad);2007;country
@@ -11967,7 +11967,7 @@
 36949;carrie underwood;who are you;2012;country
 36953;carrie underwood;leave love alone;2012;country
 36959;chase rice;every song i sing;2012;country
-36962;blake shelton;home (feat. michael bubl√©);2012;country
+36962;blake shelton;home (feat. michael bublÇ);2012;country
 36970;cassadee pope;torn;2012;country
 36972;american aquarium;burn.flicker.die;2012;country
 36978;chase rice;pbj's & pbr's;2012;country
@@ -12059,7 +12059,7 @@
 37403;luke bryan;roller coaster;2013;country
 37421;luke bryan;play it again;2013;country
 37427;chris stapleton;what are you listening to?;2013;country
-37428;scotty mccreery;feelin‚Äô it;2013;country
+37428;scotty mccreery;feelin? it;2013;country
 37442;darius rucker;true believers;2013;country
 37448;florida georgia line;hands on you;2013;country
 37452;thomas rhett;sorry for partyin';2013;country
@@ -12069,7 +12069,7 @@
 37470;blake shelton;do you remember;2013;country
 37476;randy rogers band;speak of the devil;2013;country
 37483;brothers osborne;let's go there;2013;country
-37486;the band perry;don‚Äôt let me be lonely;2013;country
+37486;the band perry;don?t let me be lonely;2013;country
 37490;blake shelton;100 miles;2013;country
 37491;little big town;your side of the bed;2013;country
 37492;kenny chesney;coconut tree (with willie nelson);2013;country
@@ -12119,7 +12119,7 @@
 37712;brantley gilbert;one hell of an amen;2014;country
 37716;blake shelton;lonely tonight (feat. ashley monroe);2014;country
 37721;dierks bentley;say you do;2014;country
-37727;eric church;that‚Äôs damn rock & roll;2014;country
+37727;eric church;that?s damn rock & roll;2014;country
 37733;carrie underwood;little toy guns;2014;country
 37735;dierks bentley;riser;2014;country
 37740;whiskey myers;reckoning;2014;country
@@ -12199,7 +12199,7 @@
 38154;love and theft;whiskey on my breath;2015;country
 38164;logan mize;can't get away from a good time;2015;country
 38165;old dominion;shut me up;2015;country
-38168;zac brown band;i‚Äôll be your man (song for a daughter);2015;country
+38168;zac brown band;i?ll be your man (song for a daughter);2015;country
 38170;eric church;chattanooga lucy;2015;country
 38172;thomas rhett;the day you stop lookin' back;2015;country
 38173;zac brown band;young and wild;2015;country
@@ -12418,13 +12418,13 @@
 39370;george strait;some nights;2019;country
 39374;aaron watson;trying like the devil;2019;country
 39377;granger smith;damn strait;2019;country
-39396;midland;cheatin‚Äô songs;2019;country
+39396;midland;cheatin? songs;2019;country
 39400;caylee hammack;family tree;2019;country
 39405;muscadine bloodline;put me in my place;2019;country
-39410;jake owen;se√±orita;2019;country
+39410;jake owen;se§orita;2019;country
 39416;ray fulcher;life after your leavin';2019;country
 39418;midland;lost in the night;2019;country
-39422;midland;every song‚Äôs a drinkin‚Äô song;2019;country
+39422;midland;every song?s a drinkin? song;2019;country
 39434;jelly roll;same asshole;2019;country
 39444;mitch rossell;ask me how i know;2019;country
 39446;tucker beathard;better than me;2019;country
@@ -12440,7 +12440,7 @@
 39493;tracy lawrence;made in america;2019;country
 39497;cold creek county;drinkin';2019;country
 39498;uncle kracker;hey hey hey;2019;country
-39499;thomas rhett;don‚Äôt threaten me with a good time;2019;country
+39499;thomas rhett;don?t threaten me with a good time;2019;country
 39501;danielle bradbery;psycho;2019;country
 39507;sturgill simpson;the dead don't die;2019;country
 39509;blanco brown;ghett ol memories;2019;country
@@ -13108,7 +13108,7 @@
 41651;aretha franklin;cold, cold heart;1964;blues
 41653;solomon burke;someone to love me;1964;blues
 41654;nina simone;go limp;1964;blues
-41658;ella fitzgerald;dream (when you‚Äôre feeling blue);1964;blues
+41658;ella fitzgerald;dream (when you?re feeling blue);1964;blues
 41659;the spencer davis group;every little bit hurts;1965;blues
 41662;baby washington;i can't wait until i see my baby;1965;blues
 41663;otis redding;my girl;1965;blues
@@ -13528,7 +13528,7 @@
 43246;aretha franklin;all the king's horses;1972;blues
 43247;j.j. cale;changes;1972;blues
 43255;j.j. cale;going down;1972;blues
-43257;blue √∂yster cult;godzilla;1972;blues
+43257;blue îyster cult;godzilla;1972;blues
 43258;little feat;cat fever;1972;blues
 43261;j.j. cale;right down here;1972;blues
 43262;humble pie;i wonder;1972;blues
@@ -13590,7 +13590,7 @@
 43460;free;muddy water;1973;blues
 43473;grand funk railroad;ain't got nobody;1973;blues
 43474;santana;yours is the light;1973;blues
-43476;blue √∂yster cult;mistress of the salmon salt (quicklime girl);1973;blues
+43476;blue îyster cult;mistress of the salmon salt (quicklime girl);1973;blues
 43483;beck, bogert, appice;sweet sweet surrender;1973;blues
 43487;alice cooper;i love the dead;1973;blues
 43489;rare earth;big john is my name;1973;blues
@@ -13617,7 +13617,7 @@
 43565;spirit;i got a line on you;1973;blues
 43568;thin lizzy;a song for while i'm away;1973;blues
 43575;traffic;roll right stones;1973;blues
-43581;blue √∂yster cult;baby ice dog;1973;blues
+43581;blue îyster cult;baby ice dog;1973;blues
 43583;freddie king;i'm your hoochie coochie man;1973;blues
 43584;alice cooper;mary ann;1973;blues
 43587;robin trower;i can't stand it;1973;blues
@@ -13627,7 +13627,7 @@
 43606;dr. john;cold cold cold;1973;blues
 43607;steely dan;the boston rag;1973;blues
 43611;steely dan;razor boy;1973;blues
-43620;blue √∂yster cult;o.d.'d on life itself;1973;blues
+43620;blue îyster cult;o.d.'d on life itself;1973;blues
 43622;the stooges;gimme danger;1973;blues
 43633;dr. john;right place wrong time;1973;blues
 43634;zz top;la grange;1973;blues
@@ -13652,7 +13652,7 @@
 43692;albert king;i can't hear nothing but the blues;1973;blues
 43695;eric clapton;bell bottom blues;1973;blues
 43697;robin trower;i can't wait much longer;1973;blues
-43698;blue √∂yster cult;the red & the black;1973;blues
+43698;blue îyster cult;the red & the black;1973;blues
 43701;j.j. cale;precious memories;1974;blues
 43703;eric clapton;let it grow;1974;blues
 43704;santana;life is anew;1974;blues
@@ -13704,7 +13704,7 @@
 43851;deep purple;soldier of fortune;1974;blues
 43852;crosby, stills, nash & young;helplessly hoping;1974;blues
 43860;steely dan;charlie freak;1974;blues
-43861;blue √∂yster cult;career of evil;1974;blues
+43861;blue îyster cult;career of evil;1974;blues
 43862;ufo;built for comfort;1974;blues
 43864;b.b. king;i'll take care of you;1974;blues
 43870;phoebe snow;good times (let the good times roll);1974;blues
@@ -13713,7 +13713,7 @@
 43880;eric clapton;meet me (down at the bottom);1974;blues
 43885;deep purple;love don't mean a thing;1974;blues
 43889;eric clapton;mainline florida;1974;blues
-43894;blue √∂yster cult;me 262;1974;blues
+43894;blue îyster cult;me 262;1974;blues
 43897;cab calloway;a chicken ain't nothing but a bird;1974;blues
 43902;thin lizzy;night life;1974;blues
 43907;thin lizzy;it's only money;1974;blues
@@ -13833,19 +13833,19 @@
 44280;ufo;reasons love;1976;blues
 44285;nazareth;carry out feelings;1976;blues
 44286;phoebe snow;cash in;1976;blues
-44289;blue √∂yster cult;e.t.i. (extra terrestrial intelligence);1976;blues
+44289;blue îyster cult;e.t.i. (extra terrestrial intelligence);1976;blues
 44292;ella fitzgerald;i hear music;1976;blues
 44301;alice cooper;go to hell;1976;blues
-44306;blue √∂yster cult;sinful love;1976;blues
+44306;blue îyster cult;sinful love;1976;blues
 44309;thin lizzy;romeo and the lonely girl;1976;blues
 44312;alice cooper;i never cry;1976;blues
 44315;steely dan;don't take me alive;1976;blues
 44319;steely dan;the caves of altamira;1976;blues
 44340;zz top;she's a heartbreaker;1976;blues
-44342;blue √∂yster cult;debbie denise;1976;blues
-44350;blue √∂yster cult;tattoo vampire;1976;blues
+44342;blue îyster cult;debbie denise;1976;blues
+44350;blue îyster cult;tattoo vampire;1976;blues
 44352;tommy bolin;bustin' out for rosey;1976;blues
-44357;blue √∂yster cult;true confessions;1976;blues
+44357;blue îyster cult;true confessions;1976;blues
 44359;lou rawls;pure imagination;1976;blues
 44365;bad company;love me somebody;1976;blues
 44370;jethro tull;beltane;1977;blues
@@ -13872,7 +13872,7 @@
 44426;the dells;betcha never been loved (like this before);1977;blues
 44428;dave mason;mystic traveler;1977;blues
 44431;levon helm;blues so bad;1977;blues
-44438;blue √∂yster cult;searchin' for celine;1977;blues
+44438;blue îyster cult;searchin' for celine;1977;blues
 44449;t. rex;pain and love;1977;blues
 44450;bachman-turner overdrive;freeways;1977;blues
 44454;bonnie raitt;three time loser;1977;blues
@@ -13887,7 +13887,7 @@
 44497;eric clapton;we're all the way;1977;blues
 44499;jethro tull;songs from the wood;1977;blues
 44502;johnnie taylor;steal away;1977;blues
-44504;blue √∂yster cult;nosferatu;1977;blues
+44504;blue îyster cult;nosferatu;1977;blues
 44514;santana;i'll be waiting;1977;blues
 44515;jethro tull;ring out solstice bells;1977;blues
 44516;steely dan;home at last;1977;blues
@@ -13900,7 +13900,7 @@
 44546;the animals;many rivers to cross;1977;blues
 44553;nazareth;place in your heart;1977;blues
 44557;eric clapton;mean old frisco;1977;blues
-44558;blue √∂yster cult;fireworks;1977;blues
+44558;blue îyster cult;fireworks;1977;blues
 44559;santana;transcendance;1977;blues
 44563;al green;feels like summer;1977;blues
 44565;ted nugent;workin' hard, playin' hard;1977;blues
@@ -14035,15 +14035,15 @@
 44959;j.b. lenoir;i feel so good;1979;blues
 44962;thin lizzy;with love;1979;blues
 44963;zz top;dust my broom;1979;blues
-44971;blue √∂yster cult;lonely teardrops;1979;blues
-44972;blue √∂yster cult;the great sun jester;1979;blues
+44971;blue îyster cult;lonely teardrops;1979;blues
+44972;blue îyster cult;the great sun jester;1979;blues
 44973;whitesnake;walking in the shadow of the blues;1979;blues
 44975;link wray;switchblade;1979;blues
 44976;peter frampton;i can't stand it no more;1979;blues
 44977;thin lizzy;get out of here;1979;blues
 44991;peter green;just for you;1979;blues
 44994;zz top;manic mechanic;1979;blues
-44998;blue √∂yster cult;in thee;1979;blues
+44998;blue îyster cult;in thee;1979;blues
 45002;thin lizzy;waiting for an alibi;1979;blues
 45005;j.j. cale;thirteen days;1979;blues
 45006;j.j. cale;boilin' pot;1979;blues
@@ -14061,10 +14061,10 @@
 45034;jethro tull;something's on the move;1979;blues
 45035;j.b. lenoir;down in mississippi;1979;blues
 45040;ann peebles;the handwriting is on the wall;1979;blues
-45055;blue √∂yster cult;you're not the one (i was looking for);1979;blues
+45055;blue îyster cult;you're not the one (i was looking for);1979;blues
 45059;pat travers;go all night;1979;blues
 45061;bad company;lonely for your love;1979;blues
-45062;blue √∂yster cult;i am the storm;1979;blues
+45062;blue îyster cult;i am the storm;1979;blues
 45063;santana;stay (beside me);1979;blues
 45066;santana;you know that i love you;1979;blues
 45074;swell maps;new york;1980;blues
@@ -14120,17 +14120,17 @@
 45216;the soft boys;wey wey hep uh hole;1980;blues
 45218;krokus;bedside radio;1980;blues
 45225;robin trower;victims of the fury;1980;blues
-45231;blue √∂yster cult;monsters;1980;blues
+45231;blue îyster cult;monsters;1980;blues
 45238;ted nugent;flesh & blood;1980;blues
-45239;blue √∂yster cult;lips in the hills;1980;blues
-45243;blue √∂yster cult;divine wind;1980;blues
+45239;blue îyster cult;lips in the hills;1980;blues
+45243;blue îyster cult;divine wind;1980;blues
 45245;the cramps;tear it up;1980;blues
 45249;thin lizzy;chinatown;1980;blues
 45254;the blues brothers;gimme some lovin';1980;blues
 45256;the outlaws;(ghost) riders in the sky;1980;blues
 45259;george thorogood;night time;1980;blues
 45261;the blues brothers;going back to miami;1980;blues
-45262;blue √∂yster cult;black blade;1980;blues
+45262;blue îyster cult;black blade;1980;blues
 45278;alice cooper;pain;1980;blues
 45281;ted nugent;hard as nails;1980;blues
 45288;the soft boys;tonight;1980;blues
@@ -14140,7 +14140,7 @@
 45295;deep purple;when a blind man cries;1980;blues
 45297;robin trower;only time;1980;blues
 45305;professor longhair;bald head;1980;blues
-45306;blue √∂yster cult;unknown tongue;1980;blues
+45306;blue îyster cult;unknown tongue;1980;blues
 45307;the fabulous thunderbirds;the crawl;1980;blues
 45309;scientists;last night;1980;blues
 45310;krokus;heatstrokes;1980;blues
@@ -14213,11 +14213,11 @@
 45487;the cramps;the crusher;1981;blues
 45491;santana;changes;1981;blues
 45497;zz top;pearl necklace;1981;blues
-45498;blue √∂yster cult;vengeance;1981;blues
-45499;blue √∂yster cult;joan crawford;1981;blues
+45498;blue îyster cult;vengeance;1981;blues
+45499;blue îyster cult;joan crawford;1981;blues
 45500;the cramps;primitive;1981;blues
-45501;blue √∂yster cult;sole survivor;1981;blues
-45504;blue √∂yster cult;fire of unknown origin;1981;blues
+45501;blue îyster cult;sole survivor;1981;blues
+45504;blue îyster cult;fire of unknown origin;1981;blues
 45506;z.z. hill;down home blues;1981;blues
 45512;thin lizzy;renegade;1981;blues
 45517;the gun club;preaching the blues;1981;blues
@@ -14399,7 +14399,7 @@
 46020;the cramps;you got good taste;1983;blues
 46022;krokus;eat the rich;1983;blues
 46023;carlos santana;one with you;1983;blues
-46027;blue √∂yster cult;take me away;1983;blues
+46027;blue îyster cult;take me away;1983;blues
 46028;the cramps;surfin' dead;1983;blues
 46034;santana;night hunting time;1983;blues
 46036;gary moore;empty rooms;1983;blues
@@ -14427,7 +14427,7 @@
 46089;eric clapton;man in love;1983;blues
 46090;wipers;no one wants an alien;1983;blues
 46091;wipers;the lonely one;1983;blues
-46096;blue √∂yster cult;veins;1983;blues
+46096;blue îyster cult;veins;1983;blues
 46100;sonic youth;the world looks red;1983;blues
 46103;krokus;stand and be counted;1983;blues
 46104;gary moore;shapes of things to come;1983;blues
@@ -14565,7 +14565,7 @@
 46474;robert plant;hip to hoo;1985;blues
 46476;johnny thunders;joey joey;1985;blues
 46479;al green;nearer my god to thee;1985;blues
-46480;blue √∂yster cult;spy in the house of the night;1985;blues
+46480;blue îyster cult;spy in the house of the night;1985;blues
 46481;eric clapton;never make you cry;1985;blues
 46482;sonic youth;i love her all the time;1985;blues
 46483;eric clapton;behind the sun;1985;blues
@@ -14732,7 +14732,7 @@
 46950;the fall;overture from 'i am curious, orange';1988;blues
 46952;colin james;why'd you lie?;1988;blues
 46966;mose allison;i love the life i live;1988;blues
-46969;blue √∂yster cult;del rio's song;1988;blues
+46969;blue îyster cult;del rio's song;1988;blues
 46970;crosby, stills, nash & young;night song;1988;blues
 46973;keith richards;time is on my side;1988;blues
 46975;phish;colonel forbin's ascent;1988;blues
@@ -14775,13 +14775,13 @@
 47080;crosby, stills, nash & young;this old house;1988;blues
 47087;robben ford;i got over it;1988;blues
 47088;phish;timber;1988;blues
-47091;blue √∂yster cult;in the presence of another world;1988;blues
+47091;blue îyster cult;in the presence of another world;1988;blues
 47093;the marvelettes;danger heartbreak dead ahead;1988;blues
 47094;phish;sneaking sally thru the alley;1988;blues
 47096;phish;the sloth;1988;blues
 47097;mose allison;your molecular structure;1988;blues
 47103;crosby, stills, nash & young;soldiers of peace;1988;blues
-47105;blue √∂yster cult;i am the one you warned me of;1988;blues
+47105;blue îyster cult;i am the one you warned me of;1988;blues
 47120;irma thomas;don't mess with my man;1988;blues
 47128;cab calloway;wake up and live;1989;blues
 47129;alice cooper;hey stoopid;1989;blues
@@ -14977,7 +14977,7 @@
 47827;television;beauty trip;1992;blues
 47830;louis jordan & his tympany five;jack, you're dead!;1992;blues
 47831;ella fitzgerald;sing me a swing song (and let me dance);1992;blues
-47838;blue √∂yster cult;the horseman arrive;1992;blues
+47838;blue îyster cult;the horseman arrive;1992;blues
 47843;delbert mcclinton;miss you fever;1992;blues
 47847;larry davis;penitentiary blues;1992;blues
 47848;eric clapton;loving your lovin';1992;blues
@@ -15020,7 +15020,7 @@
 47963;santana;make somebody happy;1992;blues
 47966;junior wells;i wish i knew what i know now;1992;blues
 47969;arc angels;paradise cafe;1992;blues
-47971;blue √∂yster cult;demon's kiss;1992;blues
+47971;blue îyster cult;demon's kiss;1992;blues
 47974;ella mae morse;the blacksmith blues;1992;blues
 47979;robben ford & the blue line;start it up;1992;blues
 47984;lester davenport;slow down baby;1992;blues
@@ -15134,7 +15134,7 @@
 48339;supersuckers;she's my bitch;1994;blues
 48343;tinsley ellis;cut you loose;1994;blues
 48346;magic sam;stop! you're hurting me;1994;blues
-48352;ali farka tour√©;gomni (with ry cooder);1994;blues
+48352;ali farka tourÇ;gomni (with ry cooder);1994;blues
 48355;bonnie raitt;dimming of the day;1994;blues
 48356;blues traveler;fallible;1994;blues
 48360;the cramps;lets get fucked up;1994;blues
@@ -15408,7 +15408,7 @@
 49350;the yardbirds;heartfull of soul;1999;blues
 49353;the neville brothers;ain't no sunshine;1999;blues
 49354;brenda holloway;you've made me so very happy;1999;blues
-49360;toumani diabat√©;bi lambam;1999;blues
+49360;toumani diabatÇ;bi lambam;1999;blues
 49361;spooky tooth;evil woman;1999;blues
 49366;widespread panic;you'll be fine;1999;blues
 49368;gov't mule;sad and deep as you;1999;blues
@@ -15497,7 +15497,7 @@
 49646;the brian jonestown massacre;nevertheless;2001;blues
 49647;delbert mcclinton;livin' it down;2001;blues
 49648;black rebel motorcycle club;love burns;2001;blues
-49656;john hammond;02:19;2001;blues
+49656;john hammond;2:19;2001;blues
 49657;the white stripes;expecting;2001;blues
 49671;black rebel motorcycle club;red eyes and tears;2001;blues
 49674;the dirtbombs;livin' for the city;2001;blues
@@ -15591,7 +15591,7 @@
 49901;the black keys;countdown;2002;blues
 49905;grand funk railroad;mr. limousine driver;2002;blues
 49907;ella fitzgerald;what are you doing new year's eve?;2002;blues
-49916;santana;novus (feat. pl√°cido domingo);2002;blues
+49916;santana;novus (feat. pl†cido domingo);2002;blues
 49930;the band;the genetic method / chest fever;2002;blues
 49931;fats domino;i hear you knocking;2002;blues
 49934;the yardbirds;stroll on (from the film 'blow up');2002;blues
@@ -15909,7 +15909,7 @@
 50800;the black angels;the prodigal sun;2006;blues
 50803;the derek trucks band;i'd rather be blind, crippled and crazy;2006;blues
 50804;heartless bastards;into the open;2006;blues
-50808;ali farka tour√©;savane;2006;blues
+50808;ali farka tourÇ;savane;2006;blues
 50810;the wood brothers;atlas;2006;blues
 50820;the black angels;young men dead;2006;blues
 50821;the black keys;you're the one;2006;blues
@@ -16052,7 +16052,7 @@
 51230;heartless bastards;wide awake;2008;blues
 51235;the parlor mob;my favorite heart to break;2008;blues
 51237;al green;take your time;2008;blues
-51238;jackie greene;i don‚Äôt live in a dream;2008;blues
+51238;jackie greene;i don?t live in a dream;2008;blues
 51240;the parlor mob;real hard headed;2008;blues
 51243;the wood brothers;fall too fast;2008;blues
 51244;sir charles jones;just another love song;2008;blues
@@ -16127,7 +16127,7 @@
 51443;the wood brothers;sing it again;2009;blues
 51444;eric clapton;georgia on my mind;2009;blues
 51454;wolfmother;eyes open;2009;blues
-51459;the king khan & bbq show;tryin‚Äô;2009;blues
+51459;the king khan & bbq show;tryin?;2009;blues
 51460;sonic youth;sacred trickster;2009;blues
 51467;thee oh sees;meat step lively;2009;blues
 51469;band of skulls;dull gold heart;2009;blues
@@ -16165,7 +16165,7 @@
 51548;dan auerbach;when the night comes;2009;blues
 51550;jj grey & mofro;i believe (in everything);2009;blues
 51551;joe bonamassa;further on up the road;2009;blues
-51555;the king khan & bbq show;i‚Äôll be loving you;2009;blues
+51555;the king khan & bbq show;i?ll be loving you;2009;blues
 51557;them crooked vultures;elephants;2009;blues
 51558;radio moscow;250 miles;2009;blues
 51559;cage the elephant;drones in the valley;2009;blues
@@ -16201,7 +16201,7 @@
 51645;jj grey & mofro;everything good is bad;2009;blues
 51649;allen toussaint;blue drag;2009;blues
 51651;jj grey & mofro;dew drops;2009;blues
-51659;jay reatard;it ain‚Äôt gonna save me;2009;blues
+51659;jay reatard;it ain?t gonna save me;2009;blues
 51662;jay reatard;blood visions;2009;blues
 51671;grace potter & the nocturnals;colors;2010;blues
 51673;grinderman;worm tamer;2010;blues
@@ -16255,7 +16255,7 @@
 51832;the dead weather;hustle and cuss;2010;blues
 51837;the black angels;telephone;2010;blues
 51840;the reverend peyton's big damn band;clap your hands;2010;blues
-51843;lukas nelson and promise of the real;don‚Äôt lose your mind;2010;blues
+51843;lukas nelson and promise of the real;don?t lose your mind;2010;blues
 51844;buddy whittington;pay the band;2010;blues
 51849;grace potter & the nocturnals;hot summer night;2010;blues
 51854;the black crowes;cold boy smile;2010;blues
@@ -16438,7 +16438,7 @@
 52361;bonnie raitt;used to rule the world;2012;blues
 52362;dr. john;ice age;2012;blues
 52365;robert cray;i'm done cryin';2012;blues
-52372;muddy waters;you‚Äôre gonna miss me when i‚Äôm gone;2012;blues
+52372;muddy waters;you?re gonna miss me when i?m gone;2012;blues
 52373;lukas nelson and promise of the real;can you hear me love you;2012;blues
 52375;dr. john;my children, my angels;2012;blues
 52378;the reverend peyton's big damn band;devils look like angels;2012;blues
@@ -16604,7 +16604,7 @@
 52883;rival sons;open my eyes;2014;blues
 52887;tinariwen;chaghaybou;2014;blues
 52889;lukas nelson and promise of the real;little girl;2014;blues
-52892;toumani diabat√©;rachid ouiguini;2014;blues
+52892;toumani diabatÇ;rachid ouiguini;2014;blues
 52896;santana;dar um jeito (we will find a way) [the official 2014 fifa world cup anthem] (feat. avicii & alexandre pires);2014;blues
 52898;ruthie foster;singing the blues;2014;blues
 52899;"bernard ""pretty"" purdie";song for aretha;2014;blues
@@ -16628,7 +16628,7 @@
 52964;beth hart;mama this one's for you;2015;blues
 52965;tyler bryant & the shakedown;devil's keep;2015;blues
 52970;walter trout;playin' hideaway;2015;blues
-52972;jd mcpherson;it‚Äôs all over but the shouting;2015;blues
+52972;jd mcpherson;it?s all over but the shouting;2015;blues
 52987;the sheepdogs;bad lieutenant;2015;blues
 52990;the yawpers;american man;2015;blues
 52993;blues saraceno;run on;2015;blues
@@ -16647,7 +16647,7 @@
 53038;thee oh sees;lupine ossuary;2015;blues
 53043;all them witches;dirt preachers;2015;blues
 53045;alex chilton;all of the time;2015;blues
-53049;albert hammond, jr.;touch√©;2015;blues
+53049;albert hammond, jr.;touchÇ;2015;blues
 53055;warren haynes;stranded in self-pity;2015;blues
 53056;the robert cray band;bad influence;2015;blues
 53061;albert hammond, jr.;power hungry;2015;blues
@@ -16670,7 +16670,7 @@
 53113;them;here comes the night;2015;blues
 53119;buddy guy;born to play guitar;2015;blues
 53130;the arcs;my mind;2015;blues
-53132;tedeschi trucks band;the sky is crying ‚Äì live at spotify nyc;2015;blues
+53132;tedeschi trucks band;the sky is crying ? live at spotify nyc;2015;blues
 53136;albert hammond, jr.;caught by my shadow;2015;blues
 53138;cage the elephant;how are you true;2015;blues
 53140;the dead weather;i feel love (every million miles);2015;blues
@@ -16743,7 +16743,7 @@
 53361;bob weir;lay my lily down;2016;blues
 53362;rival sons;black coffee;2016;blues
 53366;anders osborne;lafayette;2016;blues
-53367;the marcus king band;devil‚Äôs land;2016;blues
+53367;the marcus king band;devil?s land;2016;blues
 53370;rival sons;tied up;2016;blues
 53376;the bones of j.r. jones;hammers and nails;2016;blues
 53379;tedeschi trucks band;in every heart;2016;blues
@@ -16867,17 +16867,17 @@
 53751;gov't mule;traveling tune;2017;blues
 53754;the black angels;i'd kill for her;2017;blues
 53755;gov't mule;sarah, surrender;2017;blues
-53759;all them witches;3.5.2007;2017;blues
+53759;all them witches;3-5-7;2017;blues
 53761;sonny rhodes;ballad of serenity;2017;blues
 53763;ron gallo;please yourself;2017;blues
 53765;gov't mule;stone cold rage;2017;blues
 53766;all them witches;bulls;2017;blues
 53768;lukas nelson and promise of the real;high times;2017;blues
 53770;the black angels;grab as much (as you can);2017;blues
-53772;tinariwen;tiw√†yyen;2017;blues
+53772;tinariwen;tiwÖyyen;2017;blues
 53773;ty segall;black magick;2017;blues
 53777;tedeschi trucks band;within you, without you;2017;blues
-53779;tedeschi trucks band;don‚Äôt drift away;2017;blues
+53779;tedeschi trucks band;don?t drift away;2017;blues
 53781;tedeschi trucks band;crying over you;2017;blues
 53783;larkin poe;black betty;2017;blues
 53786;black lips;crystal night;2017;blues
@@ -16920,7 +16920,7 @@
 53866;dorothy;white butterfly;2018;blues
 53870;welshly arms;down to the river;2018;blues
 53873;the california honeydrops;hold it down;2018;blues
-53875;dorothy;ain‚Äôt our time to die;2018;blues
+53875;dorothy;ain?t our time to die;2018;blues
 53876;phish;miss you (live);2018;blues
 53877;albert hammond, jr.;strangers;2018;blues
 53878;blackbird hill;to & fros;2018;blues
@@ -16968,7 +16968,7 @@
 53965;the marcus king band;how long;2018;blues
 53966;anderson east;if you keep leaving me;2018;blues
 53967;black joe lewis & the honeybears;face in the scene;2018;blues
-53976;the record company;i‚Äôm getting better (and i‚Äôm feeling it right now);2018;blues
+53976;the record company;i?m getting better (and i?m feeling it right now);2018;blues
 53977;the spaniels;goodnite sweetheart, goodnite;2018;blues
 53978;ella fitzgerald;glad to be unhappy;2018;blues
 53979;thee oh sees;c;2018;blues
@@ -17041,7 +17041,7 @@
 54185;white denim;shanalala;2019;blues
 54186;rival sons;imperial joy;2019;blues
 54187;kenny wayne shepherd;long time running;2019;blues
-54190;justin townes earle;ain‚Äôt got no money;2019;blues
+54190;justin townes earle;ain?t got no money;2019;blues
 54193;thee oh sees;poisoned stones;2019;blues
 54202;eagles of death metal;high voltage / it's a long way to the top (if you wanna rock 'n' roll);2019;blues
 54206;anderson east;hold on, i'm comin';2019;blues
@@ -17072,7 +17072,7 @@
 54264;thee oh sees;the experimenter;2019;blues
 54265;shovels & rope;c'mon utah!;2019;blues
 54267;north mississippi allstars;what you gonna do?;2019;blues
-54268;thee oh sees;ghol√º;2019;blues
+54268;thee oh sees;gholÅ;2019;blues
 54270;gary clark jr.;got to get up;2019;blues
 54271;thee oh sees;fu xi;2019;blues
 54275;thee oh sees;together tomorrow;2019;blues
@@ -17501,7 +17501,7 @@
 55229;ramsey lewis;the two of us;1960;jazz
 55230;dean martin;love me, my love;1960;jazz
 55233;sun ra;but not for me;1960;jazz
-55237;mel torm√©;too darn hot;1960;jazz
+55237;mel tormÇ;too darn hot;1960;jazz
 55238;dave brubeck;evenin';1960;jazz
 55239;nancy wilson;fly me to the moon (in other words);1960;jazz
 55243;marian mcpartland;maria;1960;jazz
@@ -17514,7 +17514,7 @@
 55267;doris day;i've grown accustomed to his face;1960;jazz
 55269;peggy lee;fly me to the moon (in other words);1960;jazz
 55273;nat king cole;my life;1960;jazz
-55277;mel torm√©;on the street where you live;1960;jazz
+55277;mel tormÇ;on the street where you live;1960;jazz
 55280;nat king cole;when you walked by;1960;jazz
 55283;doris day;on the street where you live;1960;jazz
 55284;sun ra;fate in a pleasant mood;1960;jazz
@@ -17542,7 +17542,7 @@
 55333;eric dolphy;out there;1960;jazz
 55347;peggy lee;the christmas waltz;1960;jazz
 55349;tina brooks;up tight's creek;1960;jazz
-55350;mel torm√©;too close for comfort;1960;jazz
+55350;mel tormÇ;too close for comfort;1960;jazz
 55351;hank mobley;roll call;1960;jazz
 55353;judy garland;if love were all;1961;jazz
 55355;anita o'day;that old feeling;1961;jazz
@@ -17614,7 +17614,7 @@
 55505;bill evans;i'm gettin' sentimental over you;1962;jazz
 55508;nat king cole;caroling, caroling;1962;jazz
 55509;sammy davis jr.;what kind of fool am i;1962;jazz
-55510;dean martin;cha cha cha d¬¥amour;1962;jazz
+55510;dean martin;cha cha cha d?amour;1962;jazz
 55511;dean martin;c'est si bon;1962;jazz
 55514;dean martin;i love paris;1962;jazz
 55517;stan getz;her;1962;jazz
@@ -17704,7 +17704,7 @@
 55718;aretha franklin;you'll lose a good thing;1964;jazz
 55720;judy garland;smile;1964;jazz
 55722;louis armstrong;a lot of livin' to do;1964;jazz
-55728;mel torm√©;i know your heart;1964;jazz
+55728;mel tormÇ;i know your heart;1964;jazz
 55730;grant green;i wish you love;1964;jazz
 55733;donald byrd;cantaloupe island;1964;jazz
 55734;dean martin;if you were the only girl (in the world);1964;jazz
@@ -17791,7 +17791,7 @@
 55901;frank zappa;anyway the wind blows;1966;jazz
 55902;dean martin;somewhere there's a someone;1966;jazz
 55904;nat king cole;around the world;1966;jazz
-55905;mel torm√©;comin' home baby;1966;jazz
+55905;mel tormÇ;comin' home baby;1966;jazz
 55909;willie bobo;fried neck bones and some home fries;1966;jazz
 55913;dean martin;a marshmallow world;1966;jazz
 55914;blossom dearie;i'm hip;1966;jazz
@@ -17825,7 +17825,7 @@
 55991;dean martin;it just happened that way;1967;jazz
 55992;dean martin;sweet, sweet lovable you;1967;jazz
 55996;tom scott;today;1967;jazz
-55998;g√°bor szab√≥;san franciscan nights;1967;jazz
+55998;g†bor szab¢;san franciscan nights;1967;jazz
 56003;dean martin;little ole wine drinker, me;1967;jazz
 56005;la lupe;fever;1967;jazz
 56013;tom scott;north;1967;jazz
@@ -17852,7 +17852,7 @@
 56085;louis armstrong;zip-a-dee-doo-dah;1968;jazz
 56086;dean martin;gentle on my mind;1968;jazz
 56091;louie ramirez;ali baba;1968;jazz
-56093;willie col√≥n;the hustler;1968;jazz
+56093;willie col¢n;the hustler;1968;jazz
 56095;louis armstrong;give me your kisses;1968;jazz
 56097;louis armstrong;dream a little dream of me;1968;jazz
 56106;david axelrod;a dream;1968;jazz
@@ -17986,7 +17986,7 @@
 56452;frank zappa;tears began to fall;1971;jazz
 56453;gentle giant;black cat;1971;jazz
 56454;donny hathaway;a song for you;1971;jazz
-56459;yes;starship trooper: a. life seeker, b. disillusion, c. w√ºrm;1971;jazz
+56459;yes;starship trooper: a. life seeker, b. disillusion, c. wÅrm;1971;jazz
 56464;yes;south side of the sky;1971;jazz
 56467;gil scott-heron;pieces of a man;1971;jazz
 56470;yes;a venture;1971;jazz
@@ -18190,8 +18190,8 @@
 56969;tony bennett;the touch of your lips;1975;jazz
 56970;donald byrd;you are the world;1975;jazz
 56971;tony bennett;my foolish heart;1975;jazz
-56972;keith jarrett;k√∂ln, january 24, 1975, pt. ii c;1975;jazz
-56973;keith jarrett;k√∂ln, january 24, 1975, pt. ii a;1975;jazz
+56972;keith jarrett;kîln, january 24, 1975, pt. ii c;1975;jazz
+56973;keith jarrett;kîln, january 24, 1975, pt. ii a;1975;jazz
 56974;donald byrd;you and the music;1975;jazz
 56975;herbie hancock;sun touch;1975;jazz
 56976;leon redbone;ain't misbehavin';1975;jazz
@@ -18203,7 +18203,7 @@
 56996;earth, wind & fire;reasons;1975;jazz
 57000;earth, wind & fire;can't hide love;1975;jazz
 57002;natalie cole;inseparable;1975;jazz
-57003;fania all stars;bemba color√°;1975;jazz
+57003;fania all stars;bemba color†;1975;jazz
 57005;bobbi humphrey;please set me at ease;1975;jazz
 57008;leon redbone;lazybones;1975;jazz
 57009;ohio players;sweet sticky thing;1975;jazz
@@ -18341,7 +18341,7 @@
 57322;cortex;oh! lord;1977;jazz
 57323;rufus;better days;1977;jazz
 57327;rufus;at midnight (my love will lift you up);1977;jazz
-57332;azymuth;tamborim, cu√≠ca, ganz√°, berimbau;1977;jazz
+57332;azymuth;tamborim, cu°ca, ganz†, berimbau;1977;jazz
 57339;michael franks;don't be blue;1977;jazz
 57340;con funk shun;who has the time;1977;jazz
 57344;roy ayers ubiquity;this side of sunshine;1977;jazz
@@ -18381,7 +18381,7 @@
 57433;joe sample;melodies of love;1978;jazz
 57436;jean carn;don't let it go to your head;1978;jazz
 57449;dexter wansel;the sweetest pain;1978;jazz
-57450;roberto roena y su apollo sound;guaguanc√≥ del adios;1978;jazz
+57450;roberto roena y su apollo sound;guaguanc¢ del adios;1978;jazz
 57451;herbie hancock;sunlight;1978;jazz
 57452;the ink spots;when you were sixteen;1978;jazz
 57457;earth, wind & fire;love music;1978;jazz
@@ -18552,7 +18552,7 @@
 57873;brick;right back;1981;jazz
 57874;al jarreau;teach me tonight;1981;jazz
 57880;harvey mason;on and on;1981;jazz
-57883;willie col√≥n;cucurucuc√∫ paloma;1981;jazz
+57883;willie col¢n;cucurucuc£ paloma;1981;jazz
 57884;king crimson;matte kudasai;1981;jazz
 57885;change;hold tight;1981;jazz
 57888;george benson;we got the love;1981;jazz
@@ -18715,7 +18715,7 @@
 58232;deodato;are you for real;1984;jazz
 58233;king crimson;the king crimson barber shop;1984;jazz
 58237;wynton marsalis;stardust;1984;jazz
-58240;rub√©n blades;no√©;1984;jazz
+58240;rubÇn blades;noÇ;1984;jazz
 58246;frank zappa;the mammy nuns;1984;jazz
 58248;frank zappa;sinister footwear ii;1984;jazz
 58251;ashford & simpson;honey i love you;1984;jazz
@@ -18766,7 +18766,7 @@
 58366;the j.b.'s;givin' up food for funk;1986;jazz
 58367;larry carlton;whatever happens;1986;jazz
 58369;basia;cruising for bruising;1986;jazz
-58370;voivod;korg√ºll the exterminator;1986;jazz
+58370;voivod;korgÅll the exterminator;1986;jazz
 58371;jerry vale;innamorata (sweetheart);1986;jazz
 58372;jerry vale;have you looked into your heart;1986;jazz
 58373;johnny mathis;the christmas waltz;1986;jazz
@@ -18884,7 +18884,7 @@
 58602;shirley bassey;if you go away (ne me quitte pas);1988;jazz
 58609;jungle brothers;black is black;1988;jazz
 58613;mike stern;chromazone;1988;jazz
-58615;rub√©n blades;contrabando (contraband);1988;jazz
+58615;rubÇn blades;contrabando (contraband);1988;jazz
 58618;tuck & patti;takes my breath away;1988;jazz
 58621;stetsasonic;dbc let the music play;1988;jazz
 58625;leon redbone;she ain't rose;1988;jazz
@@ -18976,14 +18976,14 @@
 58820;peggy lee;why don't you do right (get me some money too);1990;jazz
 58821;kid ory;12th street rag;1990;jazz
 58822;sammy davis jr.;love me or leave me;1990;jazz
-58823;sonora ponce√±a;yare;1990;jazz
+58823;sonora ponce§a;yare;1990;jazz
 58828;the andrews sisters;straighten up and fly right;1990;jazz
 58831;benny goodman;stompin at the savoy;1990;jazz
 58833;tommy dorsey;i'll never smile again;1990;jazz
 58835;joe sample;the road less traveled;1990;jazz
 58839;vince guaraldi trio;cast your fate to the wind;1990;jazz
 58840;patti austin;in my life;1990;jazz
-58841;tito puente;complicaci√≥n;1990;jazz
+58841;tito puente;complicaci¢n;1990;jazz
 58842;harry connick, jr.;only 'cause i dont have you;1990;jazz
 58843;michael franks;the art of love;1990;jazz
 58845;chet baker;everything depends on you;1990;jazz
@@ -19269,7 +19269,7 @@
 59447;fatback band;gotta get my hands on some (money);1995;jazz
 59449;the pharcyde;devil music;1995;jazz
 59452;meshuggah;vanished;1995;jazz
-59453;mel torm√©;you're getting to be a habit with me;1995;jazz
+59453;mel tormÇ;you're getting to be a habit with me;1995;jazz
 59454;fourplay;in my corner;1995;jazz
 59455;david benoit;drive time;1995;jazz
 59457;fatback band;(are you ready) do the bus stop;1995;jazz
@@ -19428,7 +19428,7 @@
 59806;morcheeba;fear and love;1998;jazz
 59807;steve cole;say it again;1998;jazz
 59811;a tribe called quest;like it like that;1998;jazz
-59813;mulatu astatke;munay√© (my muna);1998;jazz
+59813;mulatu astatke;munayÇ (my muna);1998;jazz
 59814;a tribe called quest;steppin' it up (feat. busta rhymes & redman);1998;jazz
 59816;brad mehldau;exit music;1998;jazz
 59817;morcheeba;let me see;1998;jazz
@@ -19497,7 +19497,7 @@
 59954;dave koz;love is on the way;1999;jazz
 59960;aim;ain't got time to waste;1999;jazz
 59963;dave koz;together again;1999;jazz
-59964;esbj√∂rn svensson trio;from gagarin's point of view;1999;jazz
+59964;esbjîrn svensson trio;from gagarin's point of view;1999;jazz
 59965;steve tyrell;give me the simple life;1999;jazz
 59966;julie london;cry me a river;1999;jazz
 59968;the ink spots;into each life some rain must fall;1999;jazz
@@ -19593,7 +19593,7 @@
 60165;the black seeds;coming back home;2001;jazz
 60167;swans;yum-yab killers;2001;jazz
 60172;asheru and blue black of the unspoken heard;soul;2001;jazz
-60174;t√©l√©popmusik;breathe;2001;jazz
+60174;tÇlÇpopmusik;breathe;2001;jazz
 60178;orbient;boarding;2001;jazz
 60182;typical cats;it won't stop;2001;jazz
 60185;sleepytime gorilla museum;sleep is wrong;2001;jazz
@@ -19622,7 +19622,7 @@
 60238;zero 7;in the waiting line;2001;jazz
 60240;tricky;excess;2001;jazz
 60242;wayman tisdale;can't hide love;2001;jazz
-60243;"orlando ""cacha√≠to"" l√≥pez";mis dos peque√±as (feat. ang√° d√≠az, amadito vald√©s, carlos gonz√°lez & manuel galb√°n);2001;jazz
+60243;"orlando ""cacha°to"" l¢pez";mis dos peque§as (feat. ang† d°az, amadito valdÇs, carlos gonz†lez & manuel galb†n);2001;jazz
 60244;the meters;down by the river;2001;jazz
 60248;peggy lee;he's a tramp;2001;jazz
 60249;groove armada;suntoucher;2001;jazz
@@ -19643,7 +19643,7 @@
 60282;jamiroquai;feel so good;2001;jazz
 60283;nitin sawhney;sunset;2001;jazz
 60285;tony bennett;new york state of mind (with billy joel);2001;jazz
-60286;t√©l√©popmusik;genetic world;2001;jazz
+60286;tÇlÇpopmusik;genetic world;2001;jazz
 60287;harry connick, jr.;pure imagination / candy man;2001;jazz
 60290;llorca;the novel sound;2001;jazz
 60292;major boys;sous le soleil;2001;jazz
@@ -19688,7 +19688,7 @@
 60362;paul taylor;exotica;2002;jazz
 60363;bonobo;scuba;2002;jazz
 60364;rjd2;the horror;2002;jazz
-60366;c√¶cilie norby;never let me go;2002;jazz
+60366;cëcilie norby;never let me go;2002;jazz
 60369;eva cassidy;imagine;2002;jazz
 60371;eva cassidy;danny boy;2002;jazz
 60373;minus 8;bossanova feeling;2002;jazz
@@ -19804,7 +19804,7 @@
 60626;quo vadis;silence calls the storm;2004;jazz
 60627;necrophagist;foul body autopsy;2004;jazz
 60630;necrophagist;to breathe in a casket;2004;jazz
-60632;sporto kant√®s;surprise;2004;jazz
+60632;sporto kantäs;surprise;2004;jazz
 60633;blockhead;triptych part 3;2004;jazz
 60636;amp fiddler;you play me;2004;jazz
 60638;maze;too many games;2004;jazz
@@ -19844,7 +19844,7 @@
 60718;chris botti;cinema paradiso;2004;jazz
 60721;harry connick, jr.;for once in my life;2004;jazz
 60723;the dillinger escape plan;sunshine the werewolf;2004;jazz
-60726;kay starr;"""it‚Äôs a good day""";2004;jazz
+60726;kay starr;"""it?s a good day""";2004;jazz
 60728;renee olstead;what a difference a day makes;2004;jazz
 60730;chris botti;nearness of you;2004;jazz
 60731;zero 7;morning song;2004;jazz
@@ -19933,7 +19933,7 @@
 60911;chuck loeb;while we speak;2005;jazz
 60913;the budos band;budos theme;2005;jazz
 60916;streetwize;rock the boat;2005;jazz
-60917;st√©phane pompougnac;here is to you;2005;jazz
+60917;stÇphane pompougnac;here is to you;2005;jazz
 60918;fat freddy's drop;cay's crays;2005;jazz
 60925;blockhead;expiration date;2005;jazz
 60926;charlie haden;this is not america;2005;jazz
@@ -19951,7 +19951,7 @@
 60956;nightmares on wax;deep down;2006;jazz
 60957;naoki kenji;let it flow;2006;jazz
 60958;madeleine peyroux;half the perfect world;2006;jazz
-60960;tito rojas;tambi√©n nos duele;2006;jazz
+60960;tito rojas;tambiÇn nos duele;2006;jazz
 60963;nightmares on wax;pudpots;2006;jazz
 60964;peter white;one on one;2006;jazz
 60966;juliana aquino;i will survive;2006;jazz
@@ -20153,11 +20153,11 @@
 61402;the rippingtons;age of reason;2009;jazz
 61403;parov stelar;coco;2009;jazz
 61404;fat freddy's drop;the nod;2009;jazz
-61405;t√©l√©popmusik;ghost girl;2009;jazz
+61405;tÇlÇpopmusik;ghost girl;2009;jazz
 61408;gramatik;the prophet (version 2.0);2009;jazz
 61409;big bad voodoo daddy;calloway boogie;2009;jazz
 61412;parov stelar;hurt;2009;jazz
-61413;harry connick, jr.;b√©same mucho (kiss me much);2009;jazz
+61413;harry connick, jr.;bÇsame mucho (kiss me much);2009;jazz
 61415;boney james;touch;2009;jazz
 61416;georgia anne muldrow;run away;2009;jazz
 61417;the dear hunter;life and death;2009;jazz
@@ -20178,7 +20178,7 @@
 61450;wax tailor;b-boy on wax;2009;jazz
 61451;madeleine peyroux;bare bones;2009;jazz
 61454;tower of power;loveland;2009;jazz
-61457;st√©phane pompougnac;hello mademoiselle;2009;jazz
+61457;stÇphane pompougnac;hello mademoiselle;2009;jazz
 61459;zuco 103;love is queen omega;2009;jazz
 61460;gramatik;i'm free;2009;jazz
 61461;candy dulfer;don't go;2009;jazz
@@ -20325,7 +20325,7 @@
 61837;stacey kent;quiet nights of quiet stars;2011;jazz
 61839;fredrik kronkvist;the chant;2011;jazz
 61843;thievery corporation;culture of fear;2011;jazz
-61848;st√©phane pompougnac;one by one;2011;jazz
+61848;stÇphane pompougnac;one by one;2011;jazz
 61851;beyond creation;omnipresent perception;2011;jazz
 61853;vektor;tetrastructural minds;2011;jazz
 61860;peggy lee;i go to sleep;2011;jazz
@@ -20341,7 +20341,7 @@
 61888;between the buried and me;the black box;2012;jazz
 61889;big bad voodoo daddy;it only took a kiss;2012;jazz
 61893;devin townsend project;where we belong;2012;jazz
-61898;steve tyrell;i‚Äôll take romance;2012;jazz
+61898;steve tyrell;i?ll take romance;2012;jazz
 61899;gabin;lies;2012;jazz
 61902;meshuggah;marrow;2012;jazz
 61903;dj shadow;high noon;2012;jazz
@@ -20351,7 +20351,7 @@
 61907;meshuggah;swarm;2012;jazz
 61908;robert glasper experiment;lift off / mic check;2012;jazz
 61910;vildhjarta;traces;2012;jazz
-61914;jonathan fritz√©n;turn back time;2012;jazz
+61914;jonathan fritzÇn;turn back time;2012;jazz
 61916;meshuggah;i am colossus;2012;jazz
 61917;parov stelar;nobody's fool;2012;jazz
 61918;moonchild;be free;2012;jazz
@@ -20367,7 +20367,7 @@
 61942;maucoli;summertime;2012;jazz
 61944;between the buried and me;goodbye to everything reprise;2012;jazz
 61945;devin townsend project;more!;2012;jazz
-61947;dave koz;anything‚Äôs possible;2012;jazz
+61947;dave koz;anything?s possible;2012;jazz
 61951;diablo swing orchestra;exit strategy of a wrecking ball;2012;jazz
 61952;kenny g;joy to the world;2012;jazz
 61954;alice francis;shoot him down;2012;jazz
@@ -20445,7 +20445,7 @@
 62119;parov stelar trio;doctor foo;2013;jazz
 62122;madeleine peyroux;i can't stop loving you;2013;jazz
 62123;haken;in memoriam;2013;jazz
-62125;vildhjarta;l√§ngstmed√•n;2013;jazz
+62125;vildhjarta;lÑngstmedÜn;2013;jazz
 62126;harry connick, jr.;i love her;2013;jazz
 62128;jamie cullum;get a hold of yourself;2013;jazz
 62131;the dear hunter;the kiss of life;2013;jazz
@@ -20499,7 +20499,7 @@
 62237;dean martin;la giostra (the merry-go-round);2014;jazz
 62239;devin townsend project;march of the poozers;2014;jazz
 62240;oscar peterson;eleanor rigby;2014;jazz
-62241;dj harrison;erykah‚Äôs gun;2014;jazz
+62241;dj harrison;erykah?s gun;2014;jazz
 62242;slakah the beatchild;number 1;2014;jazz
 62247;jamie berry;twitch;2014;jazz
 62248;lamb;we fall in love;2014;jazz
@@ -20527,14 +20527,14 @@
 62302;leslie odom jr.;love look away;2014;jazz
 62303;swans;oxygen;2014;jazz
 62304;swans;just a little boy (for chester burnett);2014;jazz
-62305;toco;man√©;2014;jazz
+62305;toco;manÇ;2014;jazz
 62308;mndsgn;exchanging;2014;jazz
 62311;skalpel;salvadanio;2014;jazz
 62313;william basinski;dlp 1.1;2014;jazz
-62315;mel torm√©;top hat, white tie and tales;2014;jazz
+62315;mel tormÇ;top hat, white tie and tales;2014;jazz
 62318;thievery corporation;depth of my soul (feat. shana halligan);2014;jazz
 62319;leslie odom jr.;autumn leaves;2014;jazz
-62322;mel torm√©;i've got you under my skin;2014;jazz
+62322;mel tormÇ;i've got you under my skin;2014;jazz
 62325;curtis stigers;love is here to stay;2014;jazz
 62328;bill frisell;pipeline;2014;jazz
 62331;swans;screen shot;2014;jazz
@@ -20566,7 +20566,7 @@
 62386;dean martin;senza fine;2014;jazz
 62395;kalabrese;kafi lied (feat. sarah palin);2014;jazz
 62396;james tillman;and then;2014;jazz
-62398;zaz;champs-elys√©es;2014;jazz
+62398;zaz;champs-elysÇes;2014;jazz
 62400;nujabes;"luv (sic) 12"" remix";2015;jazz
 62406;the dear hunter;rebirth;2015;jazz
 62411;emancipator;the key;2015;jazz
@@ -20605,7 +20605,7 @@
 62473;tesseract;phoenix;2015;jazz
 62477;the dear hunter;if all goes well;2015;jazz
 62478;abul mogard;bound universe;2015;jazz
-62479;buena vista social club;mam√≠ me gust√≥ (feat. ibrahim ferrer);2015;jazz
+62479;buena vista social club;mam° me gust¢ (feat. ibrahim ferrer);2015;jazz
 62481;goldfish;heart shaped box (radio edit) [feat. julia church];2015;jazz
 62482;the rosenberg trio;manha de carnaval;2015;jazz
 62483;kamasi washington;leroy and lanisha;2015;jazz
@@ -20617,7 +20617,7 @@
 62500;diana krall;if you could read my mind;2015;jazz
 62502;caligula's horse;marigold;2015;jazz
 62503;the main ingredient;summer breeze;2015;jazz
-62504;buena vista social club;bodas de oro (feat. rub√©n gonz√°lez & jes√∫s ramos);2015;jazz
+62504;buena vista social club;bodas de oro (feat. rubÇn gonz†lez & jes£s ramos);2015;jazz
 62514;stacey kent;in the wee small hours of the morning;2015;jazz
 62519;flofilz;bassment jazz;2015;jazz
 62522;caravan palace;midnight;2015;jazz
@@ -20640,7 +20640,7 @@
 62557;moonchild;all the joy;2015;jazz
 62563;badbadnotgood;mono;2015;jazz
 62564;moonchild;don't wake me;2015;jazz
-62566;sly5thave;bitch don‚Äôt kill my vibe;2015;jazz
+62566;sly5thave;bitch don?t kill my vibe;2015;jazz
 62570;hidden spheres;waiting;2015;jazz
 62572;pete josef;colour;2015;jazz
 62573;nujabes;luv (sic.) pt3 (feat. shing02);2015;jazz
@@ -20653,7 +20653,7 @@
 62588;car bomb;lights out;2016;jazz
 62589;the dear hunter;the march;2016;jazz
 62590;mndsgn;use ya mnd (twentyfourseven);2016;jazz
-62592;klisch√©e;swing it like roger;2016;jazz
+62592;klischÇe;swing it like roger;2016;jazz
 62594;devin townsend project;truth;2016;jazz
 62599;car bomb;gratitude;2016;jazz
 62600;bonobo;break apart;2016;jazz
@@ -20664,10 +20664,10 @@
 62607;cafe jazz deluxe;coffee houses;2016;jazz
 62608;cafe jazz deluxe;mocha jazz delight;2016;jazz
 62609;the dear hunter;cascade;2016;jazz
-62611;madeleine peyroux;tango till they‚Äôre sore;2016;jazz
+62611;madeleine peyroux;tango till they?re sore;2016;jazz
 62612;haken;1985;2016;jazz
 62613;the dear hunter;gloria;2016;jazz
-62615;mndsgn;guess it‚Äôs all over;2016;jazz
+62615;mndsgn;guess it?s all over;2016;jazz
 62616;car bomb;from the dust of this planet;2016;jazz
 62620;kandace springs;soul eyes;2016;jazz
 62623;willie bobo;dig my feeling;2016;jazz
@@ -20681,7 +20681,7 @@
 62639;don philippe;the world connects;2016;jazz
 62640;kadhja bonet;this love;2016;jazz
 62642;melody gardot;he's a tramp;2016;jazz
-62646;l'ind√©cis;sunrise drive;2016;jazz
+62646;l'indÇcis;sunrise drive;2016;jazz
 62650;anomaly;kms (feat. atlas);2016;jazz
 62651;meshuggah;monstrocity;2016;jazz
 62652;the dear hunter;the flame (is gone);2016;jazz
@@ -20726,7 +20726,7 @@
 62737;jaared;dreaming of you;2016;jazz
 62738;the bahama soul club;casino de capri;2016;jazz
 62739;cafe jazz deluxe;zesty yearn music;2016;jazz
-62740;pink martini;joli gar√ßon;2016;jazz
+62740;pink martini;joli garáon;2016;jazz
 62746;a tribe called quest;mobius;2016;jazz
 62748;devin townsend project;failure;2016;jazz
 62750;jordan rakei;the light;2016;jazz
@@ -20750,7 +20750,7 @@
 62795;kiefer;tubesocks;2017;jazz
 62798;sudan archives;oatmeal;2017;jazz
 62800;anita baker;you're the best thing yet;2017;jazz
-62802;boney james;if i can‚Äôt hold you;2017;jazz
+62802;boney james;if i can?t hold you;2017;jazz
 62805;caro emerald;never ever;2017;jazz
 62806;moonchild;doors closing;2017;jazz
 62810;charlotte dos santos;take it slow;2017;jazz
@@ -20765,7 +20765,7 @@
 62833;moonchild;hideaway;2017;jazz
 62835;novelists;l'appel du vide;2017;jazz
 62839;disperse;bubbles;2017;jazz
-62840;l'ind√©cis;the god behind the pines;2017;jazz
+62840;l'indÇcis;the god behind the pines;2017;jazz
 62850;diana krall;blue skies;2017;jazz
 62854;minthaze;sympathy;2017;jazz
 62856;axian;seasons change;2017;jazz
@@ -20773,14 +20773,14 @@
 62865;nai palm;atoll;2017;jazz
 62866;anita baker;no one in the world;2017;jazz
 62867;thievery corporation;true sons of zion;2017;jazz
-62869;jos√© james;they can‚Äôt take that away from me;2017;jazz
+62869;josÇ james;they can?t take that away from me;2017;jazz
 62870;jamiroquai;automaton;2017;jazz
 62872;sudan archives;come meh way;2017;jazz
 62873;jamiroquai;cloud 9;2017;jazz
 62874;el michels affair;tearz;2017;jazz
 62875;nick hakim;roller skates;2017;jazz
 62877;the electric swing circus;empires;2017;jazz
-62878;gabriel garz√≥n-montano;fruitflies;2017;jazz
+62878;gabriel garz¢n-montano;fruitflies;2017;jazz
 62880;diana krall;dream;2017;jazz
 62883;nai palm;crossfire / so into you;2017;jazz
 62884;jon batiste;ohio;2017;jazz
@@ -20818,7 +20818,7 @@
 62959;nick hakim;vincent tyler;2018;jazz
 62961;sons of kemet;my queen is ada eastman;2018;jazz
 62962;august greene;black kennedy;2018;jazz
-62963;gabriel garz√≥n-montano;golden wings (instrumental);2018;jazz
+62963;gabriel garz¢n-montano;golden wings (instrumental);2018;jazz
 62966;melodiesinfonie;tokyo;2018;jazz
 62967;jazzotron;let's go;2018;jazz
 62970;pisk;it ain't right;2018;jazz
@@ -20835,7 +20835,7 @@
 62990;ardhito pramono;fake optics;2018;jazz
 62993;sam gendel;boa;2018;jazz
 62996;august greene;optimistic;2018;jazz
-62997;klisch√©e;bella ciao;2018;jazz
+62997;klischÇe;bella ciao;2018;jazz
 62998;morcheeba;never undo;2018;jazz
 63004;renee olstead;i fall to pieces;2018;jazz
 63007;owane;born in space;2018;jazz
@@ -20860,8 +20860,8 @@
 63046;joey alexander;draw me nearer;2018;jazz
 63048;drwn.;nightshift (red wine and cigs);2018;jazz
 63049;ol' burger beats;set it;2018;jazz
-63050;digitalluc;3;2018;jazz
-63051;l'ind√©cis;soulful;2018;jazz
+63050;digitalluc;003;2018;jazz
+63051;l'indÇcis;soulful;2018;jazz
 63059;john surman;autumn nocturne;2018;jazz
 63060;thievery corporation;music to make you stagger;2018;jazz
 63061;roy ayers;funk in the hole;2018;jazz
@@ -20918,8 +20918,8 @@
 63171;taylor mcferrin;i can't give your time back;2019;jazz
 63174;mujo;nostalgia;2019;jazz
 63175;digitalluc;rethymno;2019;jazz
-63176;√∏dyssee;summer delight;2019;jazz
-63183;jordan rakei;mind‚Äôs eye;2019;jazz
+63176;?dyssee;summer delight;2019;jazz
+63183;jordan rakei;mind?s eye;2019;jazz
 63185;emancipator;the bridge;2019;jazz
 63189;alfa mist;door;2019;jazz
 63190;deeb;azalea;2019;jazz
@@ -20931,7 +20931,7 @@
 63211;thank you scientist;swarm;2019;jazz
 63216;the comet is coming;blood of the past;2019;jazz
 63217;potatohead people;quest for love;2019;jazz
-63218;shafiq husayn;it‚Äôs better for you;2019;jazz
+63218;shafiq husayn;it?s better for you;2019;jazz
 63222;oscar jerome;gravitate;2019;jazz
 63225;moonchild;money;2019;jazz
 63228;snarky puppy;bardis;2019;jazz
@@ -21401,7 +21401,7 @@
 64397;johnny osbourne;dance with you;1983;reggae
 64398;dennis brown;save a little love for me;1983;reggae
 64406;anthony johnson;reggae feeling;1983;reggae
-64410;sugar minott;in this time '¬ì sugar minott;1983;reggae
+64410;sugar minott;in this time 'ì sugar minott;1983;reggae
 64411;dennis brown;too hot;1983;reggae
 64414;owen gray;little girl;1983;reggae
 64415;owen gray;where we are going;1983;reggae
@@ -21455,7 +21455,7 @@
 64519;the viceroys;crime don't pay;1984;reggae
 64520;"lee ""scratch"" perry";mr. music;1984;reggae
 64523;the viceroys;new clothes;1984;reggae
-64524;tour√© kunda;sol mal;1984;reggae
+64524;tourÇ kunda;sol mal;1984;reggae
 64531;singers and players;striving;1984;reggae
 64532;prince far i;african queen;1984;reggae
 64533;prince far i;bliss;1984;reggae
@@ -21490,7 +21490,7 @@
 64616;little john;clarks booty;1985;reggae
 64618;mighty diamonds;hustling;1985;reggae
 64620;little john;house land*;1985;reggae
-64621;tour√© kunda;toure kunda;1985;reggae
+64621;tourÇ kunda;toure kunda;1985;reggae
 64630;sumo;la gota en el ojo;1985;reggae
 64638;steel pulse;save black music;1985;reggae
 64639;steel pulse;babylon the bandit;1985;reggae
@@ -21515,7 +21515,7 @@
 64691;dennis brown;revolution part one;1986;reggae
 64694;thriller u;i can see clearly;1986;reggae
 64695;admiral bailey;no better than yard;1986;reggae
-64696;tour√© kunda;baara;1986;reggae
+64696;tourÇ kunda;baara;1986;reggae
 64699;ken boothe;call me;1986;reggae
 64702;yellowman;rambo;1986;reggae
 64703;yellowman;long rider;1986;reggae
@@ -21615,7 +21615,7 @@
 64933;mikey dread;goodbye;1989;reggae
 64935;dub syndicate;night train;1989;reggae
 64937;wailing souls;carry on;1989;reggae
-64938;wailing souls;you‚Äôre my days;1989;reggae
+64938;wailing souls;you?re my days;1989;reggae
 64941;wailing souls;what is what;1989;reggae
 64942;cultural roots;dance rub a dub;1989;reggae
 64945;the twinkle brothers;no money dub;1989;reggae
@@ -21783,7 +21783,7 @@
 65356;lucky dube;rastas;1992;reggae
 65357;lucky dube;on my own;1992;reggae
 65366;israel vibration;thank you jah;1993;reggae
-65370;t√™tes raides;the mad fiddler;1993;reggae
+65370;tàtes raides;the mad fiddler;1993;reggae
 65376;burning spear;it's not a crime;1993;reggae
 65378;burning spear;on the inside;1993;reggae
 65381;the grace thrillers;he's alive;1993;reggae
@@ -22254,7 +22254,7 @@
 66745;tenor saw;ring the alarm;2002;reggae
 66748;gentleman;children of tomorrow;2002;reggae
 66750;the expendables;mike e. song;2002;reggae
-66752;cultura prof√©tica;pal‚Äô r√≠o tanam√°;2002;reggae
+66752;cultura profÇtica;pal? r°o tanam†;2002;reggae
 66754;aswad;good thing going;2002;reggae
 66755;gregory isaacs;bring me your cup;2002;reggae
 66756;midnite;no fear no sorrow;2002;reggae
@@ -22280,7 +22280,7 @@
 66804;shaggy;strength of a woman;2002;reggae
 66805;max romeo;let the power fall on i;2002;reggae
 66806;peter tosh;rok with me;2002;reggae
-66808;the expendables;24.jul;2002;reggae
+66808;the expendables;24/7;2002;reggae
 66811;soja;rasta courage;2002;reggae
 66812;soja;true love;2002;reggae
 66813;peter tosh;wanted dread and alive;2002;reggae
@@ -22731,7 +22731,7 @@
 68135;flox;the words;2009;reggae
 68136;sashamon;merry;2009;reggae
 68139;311;two drops in the ocean;2009;reggae
-68142;tribal seeds;144;2009;reggae
+68142;tribal seeds;144,000;2009;reggae
 68146;tarrus riley;human nature;2009;reggae
 68151;part one tribe;my missy;2009;reggae
 68153;rebelution;wake up call;2009;reggae
@@ -22910,7 +22910,7 @@
 68735;matisyahu;king crown of judah (feat. shyne and ravid kahalani);2012;reggae
 68736;jimmy cliff;world upside down;2012;reggae
 68737;lucky dube;keep on knocking;2012;reggae
-68742;cultura prof√©tica;¬øqu√© ser√°? / ritmo que pesa / suelta los amarres / revoluci√≥n en est√©reo / lo de m√°s;2012;reggae
+68742;cultura profÇtica;®quÇ ser†? / ritmo que pesa / suelta los amarres / revoluci¢n en estÇreo / lo de m†s;2012;reggae
 68744;the holdup;my weekend;2012;reggae
 68745;easy star all-stars;human nature (feat. cas haley);2012;reggae
 68753;lucky dube;taxman;2012;reggae
@@ -22963,7 +22963,7 @@
 68907;michael franti & spearhead;life is better with you;2013;reggae
 68913;chronixx;champion;2013;reggae
 68915;ub40;if you ever have forever;2013;reggae
-68920;michael franti & spearhead;i‚Äôm alive (life sounds like);2013;reggae
+68920;michael franti & spearhead;i?m alive (life sounds like);2013;reggae
 68923;the green;even before;2013;reggae
 68926;fortunate youth;melody;2013;reggae
 68932;sons of zion;good love;2013;reggae
@@ -23105,7 +23105,7 @@
 69361;ky-mani marley;get high;2015;reggae
 69362;ocean alley;daydreaming;2015;reggae
 69365;konshens;gal ting;2015;reggae
-69367;na√¢man;my days;2015;reggae
+69367;naÉman;my days;2015;reggae
 69371;christafari;10,000 reasons (bless the lord) [feat. avion blackman];2015;reggae
 69374;desmond cheese;let it slide;2015;reggae
 69377;kameleba;si no somos felices;2015;reggae
@@ -23133,7 +23133,7 @@
 69432;unified highway;stand proud (feat. shana halligan, tahir panton & keznamdi);2015;reggae
 69435;jahmiel;gain the world;2015;reggae
 69437;aidonia;u alone;2015;reggae
-69439;zona ganjah;seguir√© avanzando;2015;reggae
+69439;zona ganjah;seguirÇ avanzando;2015;reggae
 69441;chezidek;marijuana;2015;reggae
 69444;popcaan;junction;2015;reggae
 69445;r. city;again;2015;reggae
@@ -23376,7 +23376,7 @@
 70189;shenseea;pon mi;2018;reggae
 70191;xavier rudd;walk away;2018;reggae
 70195;michael franti & spearhead;show me your peace sign;2019;reggae
-70196;vicente garcia;san b√°;2019;reggae
+70196;vicente garcia;san b†;2019;reggae
 70208;iya terra;follow your heart (feat. zion thompson from the green);2019;reggae
 70209;elephant man;opera wine;2019;reggae
 70212;los cafres;revolution;2019;reggae
@@ -23859,7 +23859,7 @@
 71646;yusuf / cat stevens;wild world;1970;rock
 71648;creedence clearwater revival;born to move;1970;rock
 71651;carpenters;i'll never fall in love again;1970;rock
-71652;rodr√≠guez;jane s. piddy;1970;rock
+71652;rodr°guez;jane s. piddy;1970;rock
 71654;paul mccartney;the lovely linda;1970;rock
 71660;creedence clearwater revival;sailor's lament;1970;rock
 71661;the velvet underground;i'm sticking with you;1970;rock
@@ -24023,7 +24023,7 @@
 72219;aerosmith;make it;1973;rock
 72222;sly & the family stone;in time;1973;rock
 72224;david bowie;lady grinning soul;1973;rock
-72225;the who;05:15;1973;rock
+72225;the who;5:15;1973;rock
 72229;john denver;follow me;1973;rock
 72232;chicago;just you 'n' me;1973;rock
 72233;eagles;outlaw man;1973;rock
@@ -24334,7 +24334,7 @@
 73180;the kinks;(wish i could fly like) superman;1979;rock
 73182;the clash;spanish bombs;1979;rock
 73186;rex smith;you take my breath away;1979;rock
-73187;mot√∂rhead;bomber;1979;rock
+73187;motîrhead;bomber;1979;rock
 73190;joy division;i remember nothing;1979;rock
 73193;james taylor;millworker;1979;rock
 73194;the damned;love song;1979;rock
@@ -24349,8 +24349,8 @@
 73235;supertramp;just another nervous wreck;1979;rock
 73240;triumph;lay it on the line;1979;rock
 73243;fleetwood mac;beautiful child;1979;rock
-73244;mot√∂rhead;orgasmatron;1979;rock
-73251;mot√∂rhead;stay clean;1979;rock
+73244;motîrhead;orgasmatron;1979;rock
+73251;motîrhead;stay clean;1979;rock
 73252;supertramp;take the long way home;1979;rock
 73254;pink floyd;the show must go on;1979;rock
 73256;pink floyd;the trial;1979;rock
@@ -24374,7 +24374,7 @@
 73329;buzzcocks;everybody's happy nowadays;1979;rock
 73336;bee gees;(our love) don't throw it all away;1979;rock
 73344;judas priest;hell bent for leather;1979;rock
-73345;mot√∂rhead;damage case;1979;rock
+73345;motîrhead;damage case;1979;rock
 73347;scorpions;holiday;1979;rock
 73349;gang of four;natural's not in it;1979;rock
 73352;joy division;new dawn fades;1979;rock
@@ -24415,7 +24415,7 @@
 73443;queen;coming soon;1980;rock
 73445;queen;save me;1980;rock
 73447;aerosmith;remember (walking in the sand);1980;rock
-73448;mot√∂rhead;shoot you in the back;1980;rock
+73448;motîrhead;shoot you in the back;1980;rock
 73451;bauhaus;stigmata martyr;1980;rock
 73452;black sabbath;walk away;1980;rock
 73455;bruce springsteen;you can look (but you better not touch);1980;rock
@@ -24446,7 +24446,7 @@
 73531;judas priest;breaking the law;1980;rock
 73533;devo;whip it;1980;rock
 73537;ac/dc;shoot to thrill;1980;rock
-73540;mot√∂rhead;ace of spades;1980;rock
+73540;motîrhead;ace of spades;1980;rock
 73544;journey;any way you want it;1980;rock
 73545;ac/dc;you shook me all night long;1980;rock
 73552;robbie dupree;steal away;1980;rock
@@ -24480,7 +24480,7 @@
 73613;van halen;push comes to shove;1981;rock
 73614;the police;one world (not three);1981;rock
 73619;bee gees;paradise;1981;rock
-73623;m√∂tley cr√ºe;too fast for love;1981;rock
+73623;mîtley crÅe;too fast for love;1981;rock
 73627;air supply;keeping the love alive;1981;rock
 73629;journey;dead or alive;1981;rock
 73630;judas priest;desert plains;1981;rock
@@ -24494,8 +24494,8 @@
 73646;chilliwack;my girl (gone, gone, gone);1981;rock
 73647;u2;gloria;1981;rock
 73648;ac/dc;inject the venom;1981;rock
-73650;m√∂tley cr√ºe;tonight;1981;rock
-73652;m√∂tley cr√ºe;stick to your guns;1981;rock
+73650;mîtley crÅe;tonight;1981;rock
+73652;mîtley crÅe;stick to your guns;1981;rock
 73653;the rolling stones;no use in crying;1981;rock
 73656;depeche mode;new life;1981;rock
 73659;joy division;dead souls;1981;rock
@@ -24534,7 +24534,7 @@
 73737;george harrison;all those years ago;1981;rock
 73738;black flag;tv party;1981;rock
 73740;the police;spirits in the material world;1981;rock
-73741;m√∂tley cr√ºe;piece of your action;1981;rock
+73741;mîtley crÅe;piece of your action;1981;rock
 73745;stevie nicks;edge of seventeen;1981;rock
 73747;billy squier;lonely is the night;1981;rock
 73748;foreigner;waiting for a girl like you;1981;rock
@@ -24573,7 +24573,7 @@
 73838;rush;chemistry;1982;rock
 73842;judas priest;bloodstone;1982;rock
 73846;rush;losing it;1982;rock
-73847;mot√∂rhead;iron fist;1982;rock
+73847;motîrhead;iron fist;1982;rock
 73849;toto;afraid of love;1982;rock
 73850;manowar;battle hymn;1982;rock
 73851;supertramp;don't leave me now;1982;rock
@@ -24677,9 +24677,9 @@
 74091;iron maiden;still life;1983;rock
 74092;stevie nicks;i will run to you;1983;rock
 74093;billy joel;easy money;1983;rock
-74094;m√∂tley cr√ºe;in the beginning;1983;rock
+74094;mîtley crÅe;in the beginning;1983;rock
 74096;ozzy osbourne;you're no different;1983;rock
-74097;queensr√øche;queen of the reich;1983;rock
+74097;queensròche;queen of the reich;1983;rock
 74099;zebra;who's behind the door;1983;rock
 74100;sly & the family stone;ha ha, hee hee;1983;rock
 74103;pink floyd;your possible pasts;1983;rock
@@ -24727,19 +24727,19 @@
 74192;the police;king of pain;1983;rock
 74197;billy joel;leave a tender moment alone;1983;rock
 74198;twisted sister;the kids are back;1983;rock
-74200;m√∂tley cr√ºe;knock 'em dead, kid;1983;rock
+74200;mîtley crÅe;knock 'em dead, kid;1983;rock
 74201;journey;ask the lonely;1983;rock
 74213;yes;owner of a lonely heart;1983;rock
 74217;iron maiden;the trooper;1983;rock
-74218;m√∂tley cr√ºe;shout at the devil;1983;rock
+74218;mîtley crÅe;shout at the devil;1983;rock
 74220;journey;separate ways (worlds apart);1983;rock
 74222;the police;every breath you take;1983;rock
 74225;ozzy osbourne;bark at the moon;1983;rock
 74226;quiet riot;metal health (bang your head);1983;rock
 74228;accept;balls to the wall;1983;rock
-74229;m√∂tley cr√ºe;too young to fall in love;1983;rock
+74229;mîtley crÅe;too young to fall in love;1983;rock
 74232;lionel richie;hello;1983;rock
-74236;m√∂tley cr√ºe;looks that kill;1983;rock
+74236;mîtley crÅe;looks that kill;1983;rock
 74238;dio;straight through the heart;1983;rock
 74242;iron maiden;die with your boots on;1983;rock
 74245;james ingram;yah mo b there;1983;rock
@@ -24747,13 +24747,13 @@
 74249;styx;don't let it end;1983;rock
 74251;pink floyd;not now john;1983;rock
 74252;daryl hall & john oates;jingle bell rock;1983;rock
-74253;m√∂tley cr√ºe;danger;1983;rock
+74253;mîtley crÅe;danger;1983;rock
 74258;john cafferty & the beaver brown band;tender years;1983;rock
 74259;genesis;taking it all too hard;1983;rock
-74264;m√∂tley cr√ºe;bastard;1983;rock
+74264;mîtley crÅe;bastard;1983;rock
 74265;genesis;mama;1983;rock
 74268;suicidal tendencies;subliminal;1983;rock
-74269;m√∂tley cr√ºe;red hot;1983;rock
+74269;mîtley crÅe;red hot;1983;rock
 74273;slayer;black magic;1983;rock
 74276;mercyful fate;evil;1983;rock
 74277;david bowie;cat people (putting out fire);1983;rock
@@ -24818,7 +24818,7 @@
 74406;twisted sister;the price;1984;rock
 74407;iron maiden;powerslave;1984;rock
 74408;bon jovi;shot through the heart;1984;rock
-74410;mot√∂rhead;killed by death;1984;rock
+74410;motîrhead;killed by death;1984;rock
 74422;steve perry;foolish heart;1984;rock
 74442;the smiths;please, please, please, let me get what i want;1984;rock
 74443;iron maiden;2 minutes to midnight;1984;rock
@@ -24847,7 +24847,7 @@
 74497;red hot chili peppers;out in l.a.;1984;rock
 74498;slayer;at dawn they sleep;1985;rock
 74500;slayer;kill again;1985;rock
-74501;m√∂tley cr√ºe;fight for your rights;1985;rock
+74501;mîtley crÅe;fight for your rights;1985;rock
 74505;the hooters;all you zombies;1985;rock
 74507;the cure;in between days;1985;rock
 74511;john denver;don't close your eyes, tonight;1985;rock
@@ -24872,7 +24872,7 @@
 74561;the smiths;meat is murder;1985;rock
 74564;rush;grand designs;1985;rock
 74565;the clash;this is england;1985;rock
-74566;m√∂tley cr√ºe;home sweet home;1985;rock
+74566;mîtley crÅe;home sweet home;1985;rock
 74567;the cult;she sells sanctuary;1985;rock
 74569;anthrax;medusa;1985;rock
 74571;the hooters;500 miles;1985;rock
@@ -24888,7 +24888,7 @@
 74607;dire straits;why worry;1985;rock
 74608;jimmy buffett;jolly mon sing;1985;rock
 74612;the smiths;the headmaster ritual;1985;rock
-74613;m√∂tley cr√ºe;louder than hell;1985;rock
+74613;mîtley crÅe;louder than hell;1985;rock
 74615;the smiths;well i wonder;1985;rock
 74616;prince;pop life;1985;rock
 74622;anthrax;madhouse;1985;rock
@@ -24900,13 +24900,13 @@
 74641;rush;the big money;1985;rock
 74642;the cure;push;1985;rock
 74647;phil collins;inside out;1985;rock
-74652;m√∂tley cr√ºe;use it or lose it;1985;rock
+74652;mîtley crÅe;use it or lose it;1985;rock
 74654;dokken;in my dreams;1985;rock
 74655;night ranger;goodbye;1985;rock
 74656;dokken;it's not love;1985;rock
 74657;the smiths;barbarism begins at home;1985;rock
 74660;kiss;tears are falling;1985;rock
-74661;m√∂tley cr√ºe;tonight (we need a lover);1985;rock
+74661;mîtley crÅe;tonight (we need a lover);1985;rock
 74664;james taylor;only one;1985;rock
 74665;tom waits;clap hands;1985;rock
 74667;talking heads;stay up late;1985;rock
@@ -24951,7 +24951,7 @@
 74739;ozzy osbourne;fool like you;1986;rock
 74740;journey;it could have been you;1986;rock
 74741;slayer;aggressive perfector;1986;rock
-74743;queensr√øche;i will remember;1986;rock
+74743;queensròche;i will remember;1986;rock
 74744;journey;the eyes of a woman;1986;rock
 74745;journey;raised on radio;1986;rock
 74746;misfits;death comes ripping;1986;rock
@@ -24961,10 +24961,10 @@
 74752;cinderella;nothin' for nothin';1986;rock
 74755;genesis;land of confusion;1986;rock
 74756;tesla;changes;1986;rock
-74757;queensr√øche;walk in the shadows;1986;rock
+74757;queensròche;walk in the shadows;1986;rock
 74758;yngwie malmsteen;you don't remember, i'll never forget;1986;rock
 74761;journey;happy to give;1986;rock
-74764;bauhaus;bela lugosi‚Äôs dead;1986;rock
+74764;bauhaus;bela lugosi?s dead;1986;rock
 74765;stevie nicks;i can't wait;1986;rock
 74767;journey;once you love somebody;1986;rock
 74768;slayer;jesus saves;1986;rock
@@ -25014,7 +25014,7 @@
 74867;iron maiden;caught somewhere in time;1986;rock
 74869;ozzy osbourne;the ultimate sin;1986;rock
 74871;dio;dream evil;1987;rock
-74873;m√∂tley cr√ºe;five years dead;1987;rock
+74873;mîtley crÅe;five years dead;1987;rock
 74874;red hot chili peppers;fight like a brave;1987;rock
 74876;ministry;everyday is like halloween;1987;rock
 74877;pink floyd;a new machine, pt. 1;1987;rock
@@ -25045,9 +25045,9 @@
 74938;paul mccartney;no more lonely nights;1987;rock
 74945;the cure;hot hot hot!!!;1987;rock
 74946;foreigner;heart turns to stone;1987;rock
-74951;m√∂tley cr√ºe;jailhouse rock;1987;rock
+74951;mîtley crÅe;jailhouse rock;1987;rock
 74954;butthole surfers;human cannonball;1987;rock
-74956;m√∂tley cr√ºe;nona;1987;rock
+74956;mîtley crÅe;nona;1987;rock
 74958;the smiths;unhappy birthday;1987;rock
 74964;the cure;why can't i be you?;1987;rock
 74966;suicidal tendencies;war inside my head;1987;rock
@@ -25057,7 +25057,7 @@
 74980;guns n' roses;out ta get me;1987;rock
 74985;great white;rock me;1987;rock
 74986;glenn medeiros;nothing's gonna change my love for you;1987;rock
-74991;m√∂tley cr√ºe;all in the name of...;1987;rock
+74991;mîtley crÅe;all in the name of...;1987;rock
 74993;dead kennedys;too drunk to fuck;1987;rock
 74994;the cult;love removal machine;1987;rock
 74997;anthrax;indians;1987;rock
@@ -25089,7 +25089,7 @@
 75068;pink floyd;the dogs of war;1987;rock
 75069;foreigner;say you will;1987;rock
 75073;the trashmen;surfin' bird;1987;rock
-75079;m√∂tley cr√ºe;sumthin' for nuthin';1987;rock
+75079;mîtley crÅe;sumthin' for nuthin';1987;rock
 75083;kingdom come;get it on;1988;rock
 75086;britny fox;long way to love;1988;rock
 75088;the beatles;long tall sally;1988;rock
@@ -25111,11 +25111,11 @@
 75121;ministry;stigmata;1988;rock
 75127;vinnie vincent invasion;love kills;1988;rock
 75131;u2;god part ii;1988;rock
-75132;queensr√øche;speak;1988;rock
+75132;queensròche;speak;1988;rock
 75136;danzig;end of time;1988;rock
 75144;ramones;chinese rock;1988;rock
 75146;winger;hangin on;1988;rock
-75147;queensr√øche;breaking the silence;1988;rock
+75147;queensròche;breaking the silence;1988;rock
 75148;guns n' roses;reckless life;1988;rock
 75152;manowar;heart of steel;1988;rock
 75157;danzig;possession;1988;rock
@@ -25148,7 +25148,7 @@
 75250;toto;pamela;1988;rock
 75251;slayer;mandatory suicide;1988;rock
 75254;cinderella;bad seamstress blues / fallin' apart at the seams;1988;rock
-75256;queensr√øche;eyes of a stranger;1988;rock
+75256;queensròche;eyes of a stranger;1988;rock
 75257;iron maiden;seventh son of a seventh son;1988;rock
 75260;fugazi;give me the cure;1989;rock
 75261;w.a.s.p.;mean man;1989;rock
@@ -25175,7 +25175,7 @@
 75314;lou reed;romeo had juliette;1989;rock
 75316;soundgarden;gun;1989;rock
 75319;the stone roses;bye bye bad man;1989;rock
-75325;m√∂tley cr√ºe;kickstart my heart;1989;rock
+75325;mîtley crÅe;kickstart my heart;1989;rock
 75326;rod stewart;stay with me;1989;rock
 75327;faster pussycat;slip of the tongue;1989;rock
 75328;fugazi;promises;1989;rock
@@ -25189,7 +25189,7 @@
 75350;rush;superconductor;1989;rock
 75357;skid row;can't stand the heartache;1989;rock
 75359;skid row;here i am;1989;rock
-75361;m√∂tley cr√ºe;time for change;1989;rock
+75361;mîtley crÅe;time for change;1989;rock
 75362;steven curtis chapman;i will be here;1989;rock
 75367;ramones;pet sematary;1989;rock
 75368;warrant;sometimes she cries;1989;rock
@@ -25198,7 +25198,7 @@
 75378;neil young;rockin' in the free world;1989;rock
 75386;nine inch nails;head like a hole;1989;rock
 75389;skid row;18 and life;1989;rock
-75394;m√∂tley cr√ºe;without you;1989;rock
+75394;mîtley crÅe;without you;1989;rock
 75397;the cure;disintegration;1989;rock
 75402;red hot chili peppers;nobody weird like me;1989;rock
 75405;exodus;the toxic waltz;1989;rock
@@ -25256,7 +25256,7 @@
 75526;slayer;expendable youth;1990;rock
 75528;primus;to defy the laws of tradition;1990;rock
 75530;judas priest;between the hammer & the anvil;1990;rock
-75533;queensr√øche;best i can;1990;rock
+75533;queensròche;best i can;1990;rock
 75535;the shadows;sleepwalk;1990;rock
 75536;obituary;chopped in half;1990;rock
 75538;the whispers;is it good to you;1990;rock
@@ -25279,7 +25279,7 @@
 75575;megadeth;holy wars...the punishment due;1990;rock
 75577;megadeth;hangar 18;1990;rock
 75578;megadeth;tornado of souls;1990;rock
-75581;queensr√øche;silent lucidity;1990;rock
+75581;queensròche;silent lucidity;1990;rock
 75584;firehouse;love of a lifetime;1990;rock
 75585;ac/dc;are you ready;1990;rock
 75586;judas priest;painkiller;1990;rock
@@ -25310,7 +25310,7 @@
 75630;suicidal tendencies;you can't bring me down;1990;rock
 75634;pantera;heresy;1990;rock
 75635;nelson;(can't live without your) love and affection;1990;rock
-75639;mot√∂rhead;love me forever;1991;rock
+75639;motîrhead;love me forever;1991;rock
 75643;primus;here come the bastards;1991;rock
 75646;soundgarden;room a thousand years wide;1991;rock
 75654;guns n' roses;perfect crime;1991;rock
@@ -25413,7 +25413,7 @@
 75901;jon secada;do you believe in us;1992;rock
 75904;prince;damn u;1992;rock
 75907;nirvana;beeswax;1992;rock
-75908;mot√∂rhead;i ain't no nice guy;1992;rock
+75908;motîrhead;i ain't no nice guy;1992;rock
 75909;rage against the machine;freedom;1992;rock
 75913;biohazard;punishment;1992;rock
 75916;warrant;let it rain;1992;rock
@@ -25521,7 +25521,7 @@
 76119;sting;if i ever lose my faith in you;1993;rock
 76121;air supply;goodbye;1993;rock
 76124;aerosmith;livin' on the edge;1993;rock
-76125;tool;4¬∞;1993;rock
+76125;tool;4¯;1993;rock
 76126;tool;intolerance;1993;rock
 76127;tool;bottom;1993;rock
 76132;tool;sober;1993;rock
@@ -25545,19 +25545,19 @@
 76174;the smashing pumpkins;silverfuck;1993;rock
 76176;kenny loggins;the last unicorn;1994;rock
 76179;soundgarden;superunknown;1994;rock
-76180;m√∂tley cr√ºe;power to the music;1994;rock
+76180;mîtley crÅe;power to the music;1994;rock
 76181;beastie boys;flute loop;1994;rock
 76182;karla bonoff;when will i be loved;1994;rock
 76184;marilyn manson;get your gunn;1994;rock
 76188;kenny loggins;cody's song;1994;rock
 76189;eagles;the girl from yesterday;1994;rock
-76190;m√∂tley cr√ºe;misunderstood;1994;rock
+76190;mîtley crÅe;misunderstood;1994;rock
 76191;ween;take me away;1994;rock
 76192;boston;livin' for you;1994;rock
 76193;korn;need to;1994;rock
 76203;oasis;slide away;1994;rock
 76204;pantera;slaughtered;1994;rock
-76205;m√∂tley cr√ºe;hooligan's holiday;1994;rock
+76205;mîtley crÅe;hooligan's holiday;1994;rock
 76206;beastie boys;sure shot;1994;rock
 76210;kyuss;gardenia;1994;rock
 76212;nine inch nails;mr. self destruct;1994;rock
@@ -25579,7 +25579,7 @@
 76243;korn;lies;1994;rock
 76245;eagles;please come home for christmas;1994;rock
 76246;megadeth;train of consequences;1994;rock
-76247;m√∂tley cr√ºe;smoke the sky;1994;rock
+76247;mîtley crÅe;smoke the sky;1994;rock
 76256;white zombie;children of the grave;1994;rock
 76258;megadeth;addicted to chaos;1994;rock
 76261;pink floyd;high hopes;1994;rock
@@ -25712,7 +25712,7 @@
 76613;tool;h.;1996;rock
 76614;tool;hooker with a penis;1996;rock
 76615;tool;eulogy;1996;rock
-76616;tool;√¶nema;1996;rock
+76616;tool;ënema;1996;rock
 76618;soundgarden;burden in my hand;1996;rock
 76619;korn;a.d.i.d.a.s.;1996;rock
 76621;tool;forty six & 2;1996;rock
@@ -25733,7 +25733,7 @@
 76656;incubus;glass;1997;rock
 76658;foo fighters;see you;1997;rock
 76660;misfits;static age;1997;rock
-76662;m√∂tley cr√ºe;find myself;1997;rock
+76662;mîtley crÅe;find myself;1997;rock
 76663;inxs;elegantly wasted;1997;rock
 76664;michael johnson;i'll always love you;1997;rock
 76666;aerosmith;nine lives;1997;rock
@@ -25743,7 +25743,7 @@
 76673;fuel;sunburn;1997;rock
 76674;james taylor;little more time with you;1997;rock
 76676;john denver;homegrown tomatoes;1997;rock
-76678;m√∂tley cr√ºe;afraid;1997;rock
+76678;mîtley crÅe;afraid;1997;rock
 76680;kmfdm;megalomaniac;1997;rock
 76683;james taylor;line 'em up;1997;rock
 76684;depeche mode;home;1997;rock
@@ -25988,7 +25988,7 @@
 77189;kittie;spit;2000;rock
 77193;mudvayne;nothing to gein;2000;rock
 77196;the smashing pumpkins;try, try, try;2000;rock
-77199;m√∂tley cr√ºe;new tattoo;2000;rock
+77199;mîtley crÅe;new tattoo;2000;rock
 77200;pantera;hellbound;2000;rock
 77202;green day;blood, sex and booze;2000;rock
 77204;at the drive in;arcarsenal;2000;rock
@@ -26054,7 +26054,7 @@
 77312;mogwai;take me somewhere nice;2001;rock
 77313;rob zombie;demon speeding;2001;rock
 77314;aerosmith;fly away from here;2001;rock
-77315;yndio;dame un beso y dime adi√≥s;2001;rock
+77315;yndio;dame un beso y dime adi¢s;2001;rock
 77316;radiohead;packt like sardines in a crushed tin box;2001;rock
 77317;david pomeranz;on this day;2001;rock
 77318;rob zombie;iron head;2001;rock
@@ -26084,7 +26084,7 @@
 77360;papa m;over jordan;2001;rock
 77363;muse;space dementia;2001;rock
 77364;michael w. smith;breathe;2001;rock
-77368;ill ni√±o;i am loco;2001;rock
+77368;ill ni§o;i am loco;2001;rock
 77369;roxy music;jealous guy;2001;rock
 77372;dead kennedys;nazi punks fuck off;2001;rock
 77375;tenacious d;fuck her gently;2001;rock
@@ -26268,7 +26268,7 @@
 77765;chevelle;panic prone;2004;rock
 77767;morrissey;first of the gang to die;2004;rock
 77771;muse;endlessly;2004;rock
-77772;franz ferdinand;the dark of the matin√©e;2004;rock
+77772;franz ferdinand;the dark of the matinÇe;2004;rock
 77773;guns n' roses;sympathy for the devil;2004;rock
 77780;mud flow;the sense of me;2004;rock
 77782;soil;pride;2004;rock
@@ -26467,7 +26467,7 @@
 78286;kid rock;all summer long;2007;rock
 78292;arctic monkeys;balaclava;2007;rock
 78295;alter bridge;blackbird;2007;rock
-78298;the libertines;don‚Äôt look back into the sun;2007;rock
+78298;the libertines;don?t look back into the sun;2007;rock
 78301;the bravery;above and below;2007;rock
 78303;foo fighters;long road to ruin;2007;rock
 78304;mgmt;of moons, birds & monsters;2007;rock
@@ -26545,7 +26545,7 @@
 78481;kings of leon;crawl;2008;rock
 78485;staind;tangled up in you;2008;rock
 78489;metallica;all nightmare long;2008;rock
-78490;m√∂tley cr√ºe;if i die tomorrow;2009;rock
+78490;mîtley crÅe;if i die tomorrow;2009;rock
 78491;breaking benjamin;hopeless;2009;rock
 78492;needtobreathe;the outsiders;2009;rock
 78495;phoenix;rome;2009;rock
@@ -26558,7 +26558,7 @@
 78508;skillet;it's not me it's you;2009;rock
 78513;skillet;hero;2009;rock
 78516;say anything;do better;2009;rock
-78517;m√∂tley cr√ºe;primal scream;2009;rock
+78517;mîtley crÅe;primal scream;2009;rock
 78520;phoenix;girlfriend;2009;rock
 78521;alice in chains;your decision;2009;rock
 78523;mumford & sons;thistle & weeds;2009;rock
@@ -26695,7 +26695,7 @@
 78824;simple plan;jet lag (feat. natasha bedingfield);2011;rock
 78825;jason gray;good to be alive;2011;rock
 78827;the decemberists;down by the water;2011;rock
-78828;hollywood undead;i don‚Äôt wanna die;2011;rock
+78828;hollywood undead;i don?t wanna die;2011;rock
 78829;puscifer;conditions of my parole;2011;rock
 78830;casting crowns;courageous;2011;rock
 78831;foo fighters;dear rosemary;2011;rock
@@ -26795,7 +26795,7 @@
 79071;sidewalk prophets;live like that;2012;rock
 79077;britt nicole;the sun is rising;2012;rock
 79078;shinedown;my name (wearing me out);2012;rock
-79081;toe;Â≠§Áã¨„ÅÆÁô∫Êòé;2012;rock
+79081;toe;?????;2012;rock
 79083;elle king;my neck, my back;2012;rock
 79084;walk the moon;shiver shiver;2012;rock
 79086;three days grace;unbreakable heart;2012;rock
@@ -27233,7 +27233,7 @@
 80302;tame impala;list of people (to try and forget about);2017;rock
 80303;onerepublic;no vacancy;2017;rock
 80306;twiddle;lost in the cold;2017;rock
-80313;half‚Ä¢alive;the fall;2017;rock
+80313;half?alive;the fall;2017;rock
 80316;sleeping wolf;new kings;2017;rock
 80319;passion;build my life;2017;rock
 80320;matt maeson;tribulation;2017;rock
@@ -27246,7 +27246,7 @@
 80338;mandisa;bleed the same;2017;rock
 80339;adam jensen;marijuana breath;2017;rock
 80341;starset;die for you;2017;rock
-80343;shane & shane;you‚Äôre worthy of it all;2017;rock
+80343;shane & shane;you?re worthy of it all;2017;rock
 80346;the score;revolution;2017;rock
 80350;hunny;televised;2017;rock
 80352;temporex;nice boys;2017;rock
@@ -27279,7 +27279,7 @@
 80432;imagine dragons;mouth of the river;2017;rock
 80433;ajr;i'm not famous;2017;rock
 80436;elton john;are you ready for love?;2017;rock
-80437;imagine dragons;i‚Äôll make it up to you;2017;rock
+80437;imagine dragons;i?ll make it up to you;2017;rock
 80441;no vacation;yam yam;2017;rock
 80446;missio;bottom of the deep blue sea;2017;rock
 80447;fleet foxes;if you need to, keep time on me;2017;rock
@@ -27301,7 +27301,7 @@
 80493;chris cornell;nothing compares 2 u;2018;rock
 80494;matt maeson;put it on me;2018;rock
 80498;mumford & sons;slip away;2018;rock
-80500;zayde w√∏lf;gladiator;2018;rock
+80500;zayde w?lf;gladiator;2018;rock
 80504;jon bellion;stupid deep;2018;rock
 80507;yungblud;medication;2018;rock
 80509;yungblud;anarchist;2018;rock
@@ -27336,9 +27336,9 @@
 80578;muse;dig down;2018;rock
 80586;bullet for my valentine;over it;2018;rock
 80587;wallows;it's only right;2018;rock
-80592;b√∏rns;sweet dreams;2018;rock
+80592;b?rns;sweet dreams;2018;rock
 80597;crowder;red letters;2018;rock
-80598;grandson;06:00;2018;rock
+80598;grandson;6:00;2018;rock
 80600;the neighbourhood;sadderdaze;2018;rock
 80601;jason mraz;have it all;2018;rock
 80613;grandson;war;2018;rock
@@ -27392,12 +27392,12 @@
 80759;bastille;quarter past midnight;2018;rock
 80765;imagine dragons;bullet in a gun;2018;rock
 80771;unspoken;reason;2019;rock
-80774;half‚Ä¢alive;arrow;2019;rock
+80774;half?alive;arrow;2019;rock
 80781;andy grammer;wish you pain;2019;rock
 80782;ajr;beats;2019;rock
 80784;vampire weekend;sympathy;2019;rock
 80786;the score;the fear;2019;rock
-80788;half‚Ä¢alive;runaway;2019;rock
+80788;half?alive;runaway;2019;rock
 80791;slenderbodies;belong;2019;rock
 80792;big daddy weave;alive;2019;rock
 80793;the national;light years;2019;rock
@@ -27413,7 +27413,7 @@
 80814;prince;gotta broken heart again;2019;rock
 80816;a-ha;move to memphis;2019;rock
 80821;weezer;everybody wants to rule the world;2019;rock
-80822;half‚Ä¢alive;breakfast;2019;rock
+80822;half?alive;breakfast;2019;rock
 80824;killswitch engage;the crownless king;2019;rock
 80828;incubus;into the summer;2019;rock
 80829;phantogram;into happiness;2019;rock
@@ -27427,7 +27427,7 @@
 80853;killswitch engage;us against the world;2019;rock
 80856;skillet;save me;2019;rock
 80857;killswitch engage;unleashed;2019;rock
-80858;circa waves;times won‚Äôt change me;2019;rock
+80858;circa waves;times won?t change me;2019;rock
 80864;still woozy;ipanema;2019;rock
 80867;vampire weekend;unbearably white;2019;rock
 80871;the head and the heart;honeybee;2019;rock
@@ -27447,7 +27447,7 @@
 80899;the lumineers;gloria;2019;rock
 80902;the score;dreamin (with blackbear);2019;rock
 80906;vampire weekend;big blue;2019;rock
-80907;imagine dragons;bad liar ‚Äì stripped;2019;rock
+80907;imagine dragons;bad liar ? stripped;2019;rock
 80909;death cab for cutie;kids in '99;2019;rock
 80910;badflower;heroin;2019;rock
 80914;skillet;anchor;2019;rock
@@ -27456,7 +27456,7 @@
 80926;x ambassadors;hold you down;2019;rock
 80928;korn;cold;2019;rock
 80931;vampire weekend;flower moon (feat. steve lacy);2019;rock
-80932;twenty one pilots;cut my lip (40.6782¬∞n, 73.9442¬∞ w);2019;rock
+80932;twenty one pilots;cut my lip (40.6782¯n, 73.9442¯ w);2019;rock
 80933;the lumineers;life in the city;2019;rock
 80943;bishop briggs;champion;2019;rock
 80944;elton john;never too late;2019;rock
@@ -27559,7 +27559,7 @@
 81144;heather b;do you;2005;hip hop
 81147;craig mack;get down (remix) [feat. q-tip];2005;hip hop
 81151;black noise;my hip hop;2005;hip hop
-81152;chico science;maracatu at√¥mico (trip hop);2005;hip hop
+81152;chico science;maracatu atìmico (trip hop);2005;hip hop
 81153;canibus;it's no other than..;2005;hip hop
 81154;mic geronimo;hemmin' heads;2005;hip hop
 81155;skool 77;empieza la revolucion;2006;hip hop
@@ -27618,7 +27618,7 @@
 81252;nas;choir song;2008;hip hop
 81253;coolio;fantastic voyage (lil stayne mix);2008;hip hop
 81255;positive k;i got a man (re-recorded);2008;hip hop
-81259;seth gueko;qui a dit que le rap √©tait dead ?;2008;hip hop
+81259;seth gueko;qui a dit que le rap Çtait dead ?;2008;hip hop
 81263;hmd;ghost stories;2008;hip hop
 81264;ll cool j;dear hip hop;2008;hip hop
 81265;ice cube;g-shit;2008;hip hop
@@ -27659,7 +27659,7 @@
 81335;special ed;i got it made (re-recorded / remastered);2009;hip hop
 81338;sen kumpa;deglu xel;2009;hip hop
 81339;african underground;intro;2009;hip hop
-81340;positive k;i'm not havin‚Äô it (re-recorded / remastered);2009;hip hop
+81340;positive k;i'm not havin? it (re-recorded / remastered);2009;hip hop
 81341;kool moe dee;i go to work (re-recorded);2009;hip hop
 81343;shiffai;never forget;2009;hip hop
 81344;special ed;i got it made (re-recorded/remasterd);2009;hip hop
@@ -27695,7 +27695,7 @@
 81379;"royce da 5'9""";mine in thiz (feat. mr. porter);2009;hip hop
 81380;"royce da 5'9""";thing for your girlfriend;2009;hip hop
 81381;"royce da 5'9""";soldier;2009;hip hop
-81384;83;le√ßon 3;2009;hip hop
+81384;83;leáon 3;2009;hip hop
 81385;gane rimatore;pretres;2009;hip hop
 81386;gane rimatore;slusaj ovo;2009;hip hop
 81387;83;83;2009;hip hop
@@ -27707,11 +27707,11 @@
 81397;diaz;hip-hop blues;2009;hip hop
 81398;more;hip hop;2009;hip hop
 81399;damos;hip hop;2009;hip hop
-81402;gli inquilini;la legge del pi√π forte;2010;hip hop
+81402;gli inquilini;la legge del pió forte;2010;hip hop
 81403;special ed;i got it made;2010;hip hop
 81405;n.w.a.;express yourself;2010;hip hop
 81406;epmd;you gots to chill;2010;hip hop
-81407;stezo;le prix √† payer;2010;hip hop
+81407;stezo;le prix Ö payer;2010;hip hop
 81408;cor veleno;sembrava un gioco;2010;hip hop
 81411;special ed;how you like me now (re-recorded / remastered);2010;hip hop
 81412;rob base;it takes two (re-recorded);2010;hip hop
@@ -27779,7 +27779,7 @@
 81520;terror x crew;fear not (mi fovasai);2012;hip hop
 81522;apogonoi tou omirou;break the needle (spase ti velona);2012;hip hop
 81523;to paidi thavma;don't mess with us (karioli, min ta vazeis me mas);2012;hip hop
-81524;dj nel'assassin;explica√ß√µes;2012;hip hop
+81524;dj nel'assassin;explicaá?es;2012;hip hop
 81525;terror x crew;mashed fruit (kobosta);2012;hip hop
 81526;terror x crew;the taste of hate (i geusi tou menos);2012;hip hop
 81527;terror x crew;d.j. alex at the hash house (o d.j. alex ston teke);2012;hip hop
@@ -27804,7 +27804,7 @@
 81555;trae tha truth;i do this;2012;hip hop
 81556;j-kwon;tipsy (remix);2012;hip hop
 81559;lloyd banks;my block;2012;hip hop
-81563;lex luthorz;quiero m√°s;2012;hip hop
+81563;lex luthorz;quiero m†s;2012;hip hop
 81564;coolio;gangsta's paradise (re-recorded) [remastered];2012;hip hop
 81565;t-pain;don't you quit;2012;hip hop
 81567;yo gotti;i don't like;2012;hip hop
@@ -27833,10 +27833,10 @@
 81596;eisvoleas;ichokratoria zontana (soundacracy);2012;hip hop
 81602;lil b;hip hop based freestyle;2012;hip hop
 81605;zontanoi nekroi;asshole don't fuck with us (karioli min ta valies me mas);2012;hip hop
-81608;de leve;m√©xico;2013;hip hop
+81608;de leve;mÇxico;2013;hip hop
 81609;113;jackpot;2013;hip hop
 81611;"royce da 5'9""";where my money;2013;hip hop
-81616;sektion kuchik√§schtli;lampafiaber;2013;hip hop
+81616;sektion kuchikÑschtli;lampafiaber;2013;hip hop
 81617;dolla;addicted to fame;2013;hip hop
 81620;jacki-o;if i had a son;2013;hip hop
 81623;dawn richard;riot;2013;hip hop
@@ -27848,7 +27848,7 @@
 81631;abstract rude;drug war;2013;hip hop
 81632;todd terry;do your thing;2013;hip hop
 81634;kxng crooked;one more time;2013;hip hop
-81637;mime 871;como en c√°mara lenta (en vivo);2013;hip hop
+81637;mime 871;como en c†mara lenta (en vivo);2013;hip hop
 81640;joe budden;going thru the motions;2013;hip hop
 81643;shi 360;you don't know me;2013;hip hop
 81646;raekwon;criminalogy;2013;hip hop
@@ -27864,7 +27864,7 @@
 81663;meek mill;hip hop;2013;hip hop
 81664;hopsin;hip hop sinister;2013;hip hop
 81665;tuff crew;my part of town;2013;hip hop
-81667;kalash;quel sont tes priorit√©s?;2013;hip hop
+81667;kalash;quel sont tes prioritÇs?;2013;hip hop
 81671;restiform bodies;bees;2013;hip hop
 81672;shi 360;ali baba;2013;hip hop
 81673;nate millyunz;adrenaline;2013;hip hop
@@ -27885,16 +27885,16 @@
 81708;lil wayne;welcome to tha concrete jungle;2014;hip hop
 81709;lil wayne;south muzik;2014;hip hop
 81710;lil wayne;this what i call her;2014;hip hop
-81711;lil wayne;georgia‚Ä¶ bush;2014;hip hop
+81711;lil wayne;georgia? bush;2014;hip hop
 81712;lil wayne;gettin some head;2014;hip hop
 81714;lil wayne;walk it off;2014;hip hop
 81715;lil wayne;they still like me;2014;hip hop
 81717;lil wayne;spitter;2014;hip hop
 81718;black moon;powaful impak!;2014;hip hop
 81719;radioinactive;left handed cigarettes;2014;hip hop
-81720;zul√∫ hip hop jam;hoy;2014;hip hop
+81720;zul£ hip hop jam;hoy;2014;hip hop
 81721;smif-n-wessun;stand strong;2014;hip hop
-81722;zul√∫ hip hop jam;mil hojas;2014;hip hop
+81722;zul£ hip hop jam;mil hojas;2014;hip hop
 81723;krs-one;big up new york (feat. black moon, smif-n-wessun, mad lion, funkmaster flex);2014;hip hop
 81725;armand hammer;the rent is too damn high;2014;hip hop
 81727;kwest tha madd lad;718;2014;hip hop
@@ -27904,10 +27904,10 @@
 81735;goldlink;hip hop interlude;2014;hip hop
 81736;abhi the nomad;sneaker juice;2014;hip hop
 81737;big l;stretch and bobbito show '95;2014;hip hop
-81738;zul√∫ hip hop jam;cossa nostra;2014;hip hop
+81738;zul£ hip hop jam;cossa nostra;2014;hip hop
 81739;the cross movement;cry no more;2014;hip hop
 81741;black moon;u da man feat. mad lion & smif-n-wessun;2014;hip hop
-81743;kaveli;ich wei√ü noch genau;2014;hip hop
+81743;kaveli;ich wei· noch genau;2014;hip hop
 81748;onyx;all over;2014;hip hop
 81749;ol' dirty bastard;pop shots;2014;hip hop
 81751;freeway;hot new hip hop;2014;hip hop
@@ -27974,8 +27974,8 @@
 81841;j-live;bosoms;2015;hip hop
 81843;mack 10;so sharp;2015;hip hop
 81844;abstract rude;i lived in a time;2015;hip hop
-81845;marƒçelo;filter;2016;hip hop
-81847;–¥—ç—Ñ–æ–ª–∏–∞–Ω—Ç;–≤–∞–ª—É–µ–≤;2016;hip hop
+81845;mar?elo;filter;2016;hip hop
+81847;?????????;??????;2016;hip hop
 81848;j. rawls;hha outro (joshy gets it);2016;hip hop
 81849;onyx;jingle bells, shotgun shells;2016;hip hop
 81850;evil ebenezer;get mine;2016;hip hop
@@ -28045,7 +28045,7 @@
 81961;trina;don't trip;2017;hip hop
 81962;crime mob;big boy pimpin';2017;hip hop
 81964;big daddy kane;'nuff respect;2017;hip hop
-81965;st;—ç—Ç–∞ –º—É–∑—ã–∫–∞;2017;hip hop
+81965;st;??? ??????;2017;hip hop
 81967;boyz n da hood;felonies;2017;hip hop
 81968;boyz n da hood;everybody know me;2017;hip hop
 81969;trina;100%;2017;hip hop
@@ -28136,7 +28136,7 @@
 82096;ice-t;6 'n the mornin';2017;hip hop
 82099;pusha t;circles;2017;hip hop
 82100;hustle gang;friends;2017;hip hop
-82101;ebenezer;clich√©;2017;hip hop
+82101;ebenezer;clichÇ;2017;hip hop
 82105;busta rhymes;why we die (feat. dmx and jay z);2017;hip hop
 82106;rich homie quan;gamble;2017;hip hop
 82108;moneybagg yo;lately;2017;hip hop
@@ -28188,7 +28188,7 @@
 82178;junior m.a.f.i.a.;murder onze;2018;hip hop
 82179;vince staples;blue suede;2018;hip hop
 82180;yg;bicken back being bool;2018;hip hop
-82181;method man;04:20;2018;hip hop
+82181;method man;4:20;2018;hip hop
 82182;big boi;shutterbugg;2018;hip hop
 82184;lil yachty;count me in;2018;hip hop
 82185;lil wayne;trippy;2018;hip hop
@@ -28279,7 +28279,7 @@
 82321;da lench mob;guerillas in tha mist;2019;hip hop
 82322;nappy roots;dime, quarter, nickel, penny;2019;hip hop
 82323;too $hort;the ghetto;2019;hip hop
-82325;cam‚Äôron;357;2019;hip hop
+82325;cam?ron;357;2019;hip hop
 82328;funkdoobiest;rock on;2019;hip hop
 82329;kool g rap;fast life;2019;hip hop
 82330;brand nubian;love vs. hate;2019;hip hop
@@ -28292,7 +28292,7 @@
 82345;gang starr;jazz thing;2019;hip hop
 82346;poor righteous teachers;rock dis funky joint;2019;hip hop
 82347;boyz n da hood;boyz n da hood;2019;hip hop
-82348;oscar lee;m√©xico √°cido;2019;hip hop
+82348;oscar lee;mÇxico †cido;2019;hip hop
 82349;tyron blackshit;bunny hop;2019;hip hop
 82350;ace hood;king of the streets;2019;hip hop
 82351;big tymers;stuntastic;2019;hip hop
@@ -28331,7 +28331,7 @@
 82396;dmx;we in here (feat. swizz beatz);2019;hip hop
 82397;will smith;gettin' jiggy wit it;2019;hip hop
 82398;big sean;dance (a$$);2019;hip hop
-82399;run‚Äìd.m.c.;it's tricky;2019;hip hop
+82399;run?d.m.c.;it's tricky;2019;hip hop
 82400;young mc;bust a move;2019;hip hop
 82401;delinquent habits;tres delinquentes;2019;hip hop
 82402;joell ortiz;before hip-hop;2019;hip hop

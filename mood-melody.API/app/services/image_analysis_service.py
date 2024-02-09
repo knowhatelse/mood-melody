@@ -6,6 +6,7 @@ def detect_emotion(file):
     try:
         image = cv2.imdecode(np.fromstring(file.read(), np.uint8), cv2.IMREAD_UNCHANGED)
         result = DeepFace.analyze(image)
+        print(result)
         return result[0]['dominant_emotion']
     except:
         return 400
