@@ -1,24 +1,21 @@
 import pandas as pd
 import os
 
-csv_file_path = os.path.join(os.path.dirname(__file__), '../datasets/songs.csv')
-songs_df = pd.read_csv(csv_file_path, delimiter=';')
-
-def retrieve_songs(genres):
-    global songs_df
-
-    if genres:
-        genres = set(genres) if isinstance(genres, (str, tuple)) else set(genres)
-        df = songs_df[songs_df['Genre'].isin(genres)]
-    else:
-        df = songs_df 
-
-    if len(df) < 10:
+def retrieve_songs(dataset_location):
+    if not os.path.isfile(dataset_location):
+        print(f"Error: File not found at {dataset_location}")
         return None
 
-    random_songs = df.sample(n=10)
+    try:
+        songs_df = pd.read_csv(dataset_location, delimiter=";", encoding="latin-1")
+    except FileNotFoundError:
+        print(f"Error: File not found at {dataset_location}")
+        return None
+
+    random_songs = songs_df.sample(n=10)
 
     return [
-        {'Artist': song['ArtistName'], 'Track': song['TrackName'], 'ReleaseDate': song['RelaseDate'], 'Genre': song['Genre']}
+        {'Artist': song['artist_name'], 'Track': song['track_name'],
+         'ReleaseDate': song['release_date'], 'Genre': song['genre']}
         for song in random_songs.to_dict('records')
     ]
